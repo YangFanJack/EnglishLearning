@@ -1,0 +1,6819 @@
+{
+  "questions": [
+    {
+      "id": "grammar-001",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A1",
+      "difficulty": 1,
+      "topic": "daily-work",
+      "tags": [
+        "tense",
+        "present-simple"
+      ],
+      "stem": "Complete the sentence: She ___ in the London office.",
+      "options": [
+        "working",
+        "worked",
+        "works",
+        "work"
+      ],
+      "answer": 2,
+      "explanation": "Third-person singular adds -s: she works.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-002",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A1",
+      "difficulty": 1,
+      "topic": "daily-work",
+      "tags": [
+        "tense",
+        "present-simple"
+      ],
+      "stem": "Select the best answer: They ___ to the gym every morning.",
+      "options": [
+        "going",
+        "gone",
+        "go",
+        "goes"
+      ],
+      "answer": 2,
+      "explanation": "With they, use the base form go.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-003",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A1",
+      "difficulty": 1,
+      "topic": "daily-work",
+      "tags": [
+        "tense",
+        "present-simple"
+      ],
+      "stem": "Which option is correct? He ___ coffee every morning.",
+      "options": [
+        "drink",
+        "drinks",
+        "drinking",
+        "drunk"
+      ],
+      "answer": 1,
+      "explanation": "With he, the present simple verb takes -s.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-004",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A1",
+      "difficulty": 1,
+      "topic": "daily-work",
+      "tags": [
+        "tense",
+        "present-simple"
+      ],
+      "stem": "Choose the correct option: The train ___ at 7:30.",
+      "options": [
+        "leaving",
+        "leave",
+        "leaves",
+        "left"
+      ],
+      "answer": 2,
+      "explanation": "A fixed timetable uses the present simple.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-005",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A1",
+      "difficulty": 1,
+      "topic": "daily-work",
+      "tags": [
+        "tense",
+        "present-simple"
+      ],
+      "stem": "Select the best answer: We ___ a team meeting on Mondays.",
+      "options": [
+        "had",
+        "having",
+        "have",
+        "has"
+      ],
+      "answer": 2,
+      "explanation": "With we, use the base form have.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-006",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A1",
+      "difficulty": 1,
+      "topic": "daily-work",
+      "tags": [
+        "tense",
+        "present-continuous"
+      ],
+      "stem": "Which option is correct? She ___ a report right now.",
+      "options": [
+        "write",
+        "is writing",
+        "writes",
+        "wrote"
+      ],
+      "answer": 1,
+      "explanation": "Right now signals an action in progress: is writing.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-007",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A1",
+      "difficulty": 1,
+      "topic": "daily-work",
+      "tags": [
+        "tense",
+        "present-continuous"
+      ],
+      "stem": "Fill in the blank: They ___ on a new project this week.",
+      "options": [
+        "are working",
+        "worked",
+        "work",
+        "works"
+      ],
+      "answer": 0,
+      "explanation": "This week describes a temporary current activity.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-008",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A1",
+      "difficulty": 1,
+      "topic": "daily-work",
+      "tags": [
+        "tense",
+        "present-continuous"
+      ],
+      "stem": "Complete the sentence: I ___ for a call from the client.",
+      "options": [
+        "am waiting",
+        "wait",
+        "waits",
+        "waited"
+      ],
+      "answer": 0,
+      "explanation": "The action is happening now: am waiting.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-009",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A1",
+      "difficulty": 1,
+      "topic": "daily-work",
+      "tags": [
+        "tense",
+        "present-continuous"
+      ],
+      "stem": "Choose the correct option: He ___ to the airport at the moment.",
+      "options": [
+        "is driving",
+        "drive",
+        "drives",
+        "drove"
+      ],
+      "answer": 0,
+      "explanation": "At the moment signals the present continuous.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-010",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A1",
+      "difficulty": 1,
+      "topic": "daily-work",
+      "tags": [
+        "tense",
+        "present-continuous"
+      ],
+      "stem": "Fill in the blank: We ___ the budget this afternoon.",
+      "options": [
+        "review",
+        "reviewed",
+        "are reviewing",
+        "reviews"
+      ],
+      "answer": 2,
+      "explanation": "A planned activity in the near future uses the present continuous.",
+      "source": "adapted-public",
+      "sourceNote": "题目结构参考公开商务英语样题，内容与选项均重新编写。"
+    },
+    {
+      "id": "grammar-011",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A1",
+      "difficulty": 1,
+      "topic": "daily-work",
+      "tags": [
+        "tense",
+        "past-simple"
+      ],
+      "stem": "Complete the sentence: We ___ the contract yesterday.",
+      "options": [
+        "signed",
+        "have signed",
+        "sign",
+        "signing"
+      ],
+      "answer": 0,
+      "explanation": "Yesterday requires the past simple: signed.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-012",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A1",
+      "difficulty": 1,
+      "topic": "daily-work",
+      "tags": [
+        "tense",
+        "past-simple"
+      ],
+      "stem": "Choose the correct option: She ___ the client last Friday.",
+      "options": [
+        "calls",
+        "call",
+        "calling",
+        "called"
+      ],
+      "answer": 3,
+      "explanation": "Last Friday is a finished past time: called.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-013",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A1",
+      "difficulty": 1,
+      "topic": "daily-work",
+      "tags": [
+        "tense",
+        "past-simple"
+      ],
+      "stem": "Which option is correct? They ___ the order two days ago.",
+      "options": [
+        "cancels",
+        "cancel",
+        "cancelled",
+        "cancelling"
+      ],
+      "answer": 2,
+      "explanation": "Two days ago requires the past simple.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-014",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A1",
+      "difficulty": 1,
+      "topic": "daily-work",
+      "tags": [
+        "tense",
+        "past-simple"
+      ],
+      "stem": "Fill in the blank: I ___ the report before lunch.",
+      "options": [
+        "finishing",
+        "finishes",
+        "finish",
+        "finished"
+      ],
+      "answer": 3,
+      "explanation": "Before lunch refers to a finished past action here.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-015",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A1",
+      "difficulty": 1,
+      "topic": "daily-work",
+      "tags": [
+        "tense",
+        "past-simple"
+      ],
+      "stem": "Select the best answer: He ___ to the conference last month.",
+      "options": [
+        "goes",
+        "going",
+        "go",
+        "went"
+      ],
+      "answer": 3,
+      "explanation": "Last month needs the past simple form went.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-016",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A1",
+      "difficulty": 1,
+      "topic": "ability",
+      "tags": [
+        "modal",
+        "ability",
+        "can-could"
+      ],
+      "stem": "Which option is correct? She ___ speak three languages fluently.",
+      "options": [
+        "must",
+        "should",
+        "can",
+        "might"
+      ],
+      "answer": 2,
+      "explanation": "Can expresses present ability.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-017",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A1",
+      "difficulty": 1,
+      "topic": "ability",
+      "tags": [
+        "modal",
+        "ability",
+        "can-could"
+      ],
+      "stem": "Choose the correct option: When I was a child, I ___ swim very well.",
+      "options": [
+        "should",
+        "could",
+        "must",
+        "can"
+      ],
+      "answer": 1,
+      "explanation": "Could expresses past ability.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-018",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A1",
+      "difficulty": 1,
+      "topic": "ability",
+      "tags": [
+        "modal",
+        "ability",
+        "can-could"
+      ],
+      "stem": "Select the best answer: He ___ lift the box because it was too heavy.",
+      "options": [
+        "mustn't",
+        "shouldn't",
+        "can't",
+        "couldn't"
+      ],
+      "answer": 3,
+      "explanation": "Couldn't expresses past inability.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-019",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A1",
+      "difficulty": 1,
+      "topic": "ability",
+      "tags": [
+        "modal",
+        "ability",
+        "can-could"
+      ],
+      "stem": "Fill in the blank: ___ you pass me the file, please?",
+      "options": [
+        "Could",
+        "May",
+        "Must",
+        "Should"
+      ],
+      "answer": 0,
+      "explanation": "Could is used for a polite request.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-020",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A1",
+      "difficulty": 1,
+      "topic": "ability",
+      "tags": [
+        "modal",
+        "ability",
+        "can-could"
+      ],
+      "stem": "Fill in the blank: We ___ finish the report today because we have enough time.",
+      "options": [
+        "might",
+        "can",
+        "must",
+        "should"
+      ],
+      "answer": 1,
+      "explanation": "Can expresses possibility based on ability or circumstances.",
+      "source": "adapted-public",
+      "sourceNote": "题目结构参考公开商务英语样题，内容与选项均重新编写。"
+    },
+    {
+      "id": "grammar-021",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A1",
+      "difficulty": 1,
+      "topic": "office",
+      "tags": [
+        "existential",
+        "agreement",
+        "there-is-are"
+      ],
+      "stem": "Fill in the blank: There ___ a meeting at ten.",
+      "options": [
+        "is",
+        "are",
+        "be",
+        "been"
+      ],
+      "answer": 0,
+      "explanation": "A singular noun takes there is.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-022",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A1",
+      "difficulty": 1,
+      "topic": "office",
+      "tags": [
+        "existential",
+        "agreement",
+        "there-is-are"
+      ],
+      "stem": "Which option is correct? There ___ two new clients in the office.",
+      "options": [
+        "been",
+        "are",
+        "is",
+        "be"
+      ],
+      "answer": 1,
+      "explanation": "A plural noun takes there are.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-023",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A1",
+      "difficulty": 1,
+      "topic": "office",
+      "tags": [
+        "existential",
+        "agreement",
+        "there-is-are"
+      ],
+      "stem": "Choose the correct option: There ___ any milk left in the fridge.",
+      "options": [
+        "aren't",
+        "isn't",
+        "be",
+        "not"
+      ],
+      "answer": 1,
+      "explanation": "Milk is uncountable, so use there isn’t.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-024",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A1",
+      "difficulty": 1,
+      "topic": "office",
+      "tags": [
+        "existential",
+        "agreement",
+        "there-is-are"
+      ],
+      "stem": "Complete the sentence: There ___ a lot of emails this morning.",
+      "options": [
+        "is",
+        "be",
+        "were",
+        "was"
+      ],
+      "answer": 2,
+      "explanation": "Emails is plural and the time is past: there were.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-025",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A1",
+      "difficulty": 1,
+      "topic": "office",
+      "tags": [
+        "existential",
+        "agreement",
+        "there-is-are"
+      ],
+      "stem": "Select the best answer: There ___ a problem with the invoice.",
+      "options": [
+        "is",
+        "be",
+        "been",
+        "are"
+      ],
+      "answer": 0,
+      "explanation": "A singular noun takes there is.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-026",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A1",
+      "difficulty": 1,
+      "topic": "office",
+      "tags": [
+        "articles"
+      ],
+      "stem": "Select the best answer: She is ___ engineer.",
+      "options": [
+        "no article",
+        "a",
+        "the",
+        "an"
+      ],
+      "answer": 3,
+      "explanation": "Engineer begins with a vowel sound, so use an.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-027",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A1",
+      "difficulty": 1,
+      "topic": "office",
+      "tags": [
+        "articles"
+      ],
+      "stem": "Complete the sentence: We need ___ new computer for the office.",
+      "options": [
+        "an",
+        "the",
+        "no article",
+        "a"
+      ],
+      "answer": 3,
+      "explanation": "A singular countable noun is introduced with a.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-028",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A1",
+      "difficulty": 1,
+      "topic": "office",
+      "tags": [
+        "articles"
+      ],
+      "stem": "Choose the correct option: ___ report on the desk is mine.",
+      "options": [
+        "A",
+        "The",
+        "An",
+        "No article"
+      ],
+      "answer": 1,
+      "explanation": "The report is specific because it is on the desk.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-029",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A1",
+      "difficulty": 1,
+      "topic": "office",
+      "tags": [
+        "articles"
+      ],
+      "stem": "Which option is correct? He works in ___ finance department.",
+      "options": [
+        "an",
+        "no article",
+        "a",
+        "the"
+      ],
+      "answer": 3,
+      "explanation": "A specific department takes the.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-030",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A1",
+      "difficulty": 1,
+      "topic": "office",
+      "tags": [
+        "articles"
+      ],
+      "stem": "Complete the sentence: I have ___ idea for the project.",
+      "options": [
+        "an",
+        "a",
+        "no article",
+        "the"
+      ],
+      "answer": 0,
+      "explanation": "Idea begins with a vowel sound, so use an.",
+      "source": "adapted-public",
+      "sourceNote": "题目结构参考公开商务英语样题，内容与选项均重新编写。"
+    },
+    {
+      "id": "grammar-031",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A1",
+      "difficulty": 1,
+      "topic": "office",
+      "tags": [
+        "nouns",
+        "plural",
+        "plural-nouns"
+      ],
+      "stem": "Choose the correct option: There are three ___ in the meeting.",
+      "options": [
+        "people",
+        "peoples",
+        "persons",
+        "person"
+      ],
+      "answer": 0,
+      "explanation": "The plural of person in general use is people.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-032",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A1",
+      "difficulty": 1,
+      "topic": "office",
+      "tags": [
+        "nouns",
+        "plural",
+        "plural-nouns"
+      ],
+      "stem": "Complete the sentence: We need two ___ for the new office.",
+      "options": [
+        "deskes",
+        "desks",
+        "deskies",
+        "desk"
+      ],
+      "answer": 1,
+      "explanation": "Regular plural: desk + s.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-033",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A1",
+      "difficulty": 1,
+      "topic": "office",
+      "tags": [
+        "nouns",
+        "plural",
+        "plural-nouns"
+      ],
+      "stem": "Select the best answer: The ___ are reviewing the contract.",
+      "options": [
+        "manager's",
+        "manager",
+        "managing",
+        "managers"
+      ],
+      "answer": 3,
+      "explanation": "The plural subject managers takes are.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-034",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A1",
+      "difficulty": 1,
+      "topic": "office",
+      "tags": [
+        "nouns",
+        "plural",
+        "plural-nouns"
+      ],
+      "stem": "Fill in the blank: She bought three ___ of paper.",
+      "options": [
+        "boxs",
+        "box",
+        "boxies",
+        "boxes"
+      ],
+      "answer": 3,
+      "explanation": "Box ends in x, so the plural is boxes.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-035",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A1",
+      "difficulty": 1,
+      "topic": "office",
+      "tags": [
+        "nouns",
+        "plural",
+        "plural-nouns"
+      ],
+      "stem": "Complete the sentence: The company has five ___ in Asia.",
+      "options": [
+        "branches'",
+        "branch",
+        "branchs",
+        "branches"
+      ],
+      "answer": 3,
+      "explanation": "Branch ends in ch, so the plural is branches.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-036",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A1",
+      "difficulty": 1,
+      "topic": "time",
+      "tags": [
+        "prepositions",
+        "time",
+        "prepositions-time"
+      ],
+      "stem": "Select the best answer: The meeting starts ___ 9 a.m.",
+      "options": [
+        "at",
+        "on",
+        "in",
+        "for"
+      ],
+      "answer": 0,
+      "explanation": "Use at with clock times.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-037",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A1",
+      "difficulty": 1,
+      "topic": "time",
+      "tags": [
+        "prepositions",
+        "time",
+        "prepositions-time"
+      ],
+      "stem": "Complete the sentence: We will finish the project ___ Friday.",
+      "options": [
+        "for",
+        "on",
+        "at",
+        "in"
+      ],
+      "answer": 1,
+      "explanation": "Use on with days.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-038",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A1",
+      "difficulty": 1,
+      "topic": "time",
+      "tags": [
+        "prepositions",
+        "time",
+        "prepositions-time"
+      ],
+      "stem": "Which option is correct? She has worked here ___ 2020.",
+      "options": [
+        "from",
+        "at",
+        "for",
+        "since"
+      ],
+      "answer": 3,
+      "explanation": "Use since with a starting point in time.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-039",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A1",
+      "difficulty": 1,
+      "topic": "time",
+      "tags": [
+        "prepositions",
+        "time",
+        "prepositions-time"
+      ],
+      "stem": "Fill in the blank: The training lasts ___ two hours.",
+      "options": [
+        "in",
+        "since",
+        "for",
+        "at"
+      ],
+      "answer": 2,
+      "explanation": "Use for with a length of time.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-040",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A1",
+      "difficulty": 1,
+      "topic": "time",
+      "tags": [
+        "prepositions",
+        "time",
+        "prepositions-time"
+      ],
+      "stem": "Complete the sentence: I will call you ___ the afternoon.",
+      "options": [
+        "for",
+        "in",
+        "on",
+        "at"
+      ],
+      "answer": 1,
+      "explanation": "Use in with parts of the day.",
+      "source": "adapted-public",
+      "sourceNote": "题目结构参考公开商务英语样题，内容与选项均重新编写。"
+    },
+    {
+      "id": "grammar-041",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A1",
+      "difficulty": 1,
+      "topic": "requests",
+      "tags": [
+        "quantifiers",
+        "some-any"
+      ],
+      "stem": "Complete the sentence: We have ___ questions about the contract.",
+      "options": [
+        "some",
+        "a",
+        "an",
+        "any"
+      ],
+      "answer": 0,
+      "explanation": "Some is used in affirmative sentences.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-042",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A1",
+      "difficulty": 1,
+      "topic": "requests",
+      "tags": [
+        "quantifiers",
+        "some-any"
+      ],
+      "stem": "Choose the correct option: Do you have ___ experience in sales?",
+      "options": [
+        "any",
+        "an",
+        "some",
+        "a"
+      ],
+      "answer": 0,
+      "explanation": "Any is common in questions.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-043",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A1",
+      "difficulty": 1,
+      "topic": "requests",
+      "tags": [
+        "quantifiers",
+        "some-any"
+      ],
+      "stem": "Which option is correct? There isn't ___ coffee left.",
+      "options": [
+        "some",
+        "a",
+        "an",
+        "any"
+      ],
+      "answer": 3,
+      "explanation": "Any is used in negative sentences.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-044",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A1",
+      "difficulty": 1,
+      "topic": "requests",
+      "tags": [
+        "quantifiers",
+        "some-any"
+      ],
+      "stem": "Fill in the blank: I need ___ information about the product.",
+      "options": [
+        "a",
+        "an",
+        "some",
+        "any"
+      ],
+      "answer": 2,
+      "explanation": "Some is used with uncountable nouns in affirmative sentences.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-045",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A1",
+      "difficulty": 1,
+      "topic": "requests",
+      "tags": [
+        "quantifiers",
+        "some-any"
+      ],
+      "stem": "Choose the correct option: Are there ___ new messages?",
+      "options": [
+        "a",
+        "an",
+        "some",
+        "any"
+      ],
+      "answer": 3,
+      "explanation": "Any is common in questions with plural nouns.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-046",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A1",
+      "difficulty": 1,
+      "topic": "products",
+      "tags": [
+        "adjectives",
+        "comparatives"
+      ],
+      "stem": "Which option is correct? This office is ___ than the old one.",
+      "options": [
+        "big",
+        "biggest",
+        "bigger",
+        "more big"
+      ],
+      "answer": 2,
+      "explanation": "Short adjectives add -er: bigger.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-047",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A1",
+      "difficulty": 1,
+      "topic": "products",
+      "tags": [
+        "adjectives",
+        "comparatives"
+      ],
+      "stem": "Choose the correct option: The new system is ___ than the old one.",
+      "options": [
+        "more efficient",
+        "most efficient",
+        "efficienter",
+        "efficient"
+      ],
+      "answer": 0,
+      "explanation": "Long adjectives use more: more efficient.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-048",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A1",
+      "difficulty": 1,
+      "topic": "products",
+      "tags": [
+        "adjectives",
+        "comparatives"
+      ],
+      "stem": "Complete the sentence: Her presentation was ___ than his.",
+      "options": [
+        "better",
+        "gooder",
+        "more good",
+        "best"
+      ],
+      "answer": 0,
+      "explanation": "The comparative of good is better.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-049",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A1",
+      "difficulty": 1,
+      "topic": "products",
+      "tags": [
+        "adjectives",
+        "comparatives"
+      ],
+      "stem": "Select the best answer: The train is ___ than the bus.",
+      "options": [
+        "more fast",
+        "fastest",
+        "faster",
+        "fast"
+      ],
+      "answer": 2,
+      "explanation": "Short adjectives add -er: faster.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-050",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A1",
+      "difficulty": 1,
+      "topic": "products",
+      "tags": [
+        "adjectives",
+        "comparatives"
+      ],
+      "stem": "Choose the correct option: This year's results are ___ than last year's.",
+      "options": [
+        "badder",
+        "worst",
+        "worse",
+        "more bad"
+      ],
+      "answer": 2,
+      "explanation": "The comparative of bad is worse.",
+      "source": "adapted-public",
+      "sourceNote": "题目结构参考公开商务英语样题，内容与选项均重新编写。"
+    },
+    {
+      "id": "grammar-051",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A2",
+      "difficulty": 2,
+      "topic": "daily-work",
+      "tags": [
+        "tense",
+        "past-continuous"
+      ],
+      "stem": "Complete the sentence: I ___ when the phone rang.",
+      "options": [
+        "worked",
+        "was working",
+        "work",
+        "am working"
+      ],
+      "answer": 1,
+      "explanation": "The longer background action uses the past continuous.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-052",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A2",
+      "difficulty": 2,
+      "topic": "daily-work",
+      "tags": [
+        "tense",
+        "past-continuous"
+      ],
+      "stem": "Select the best answer: They ___ dinner when we arrived.",
+      "options": [
+        "are having",
+        "were having",
+        "have",
+        "had"
+      ],
+      "answer": 1,
+      "explanation": "The action in progress uses were having.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-053",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A2",
+      "difficulty": 2,
+      "topic": "daily-work",
+      "tags": [
+        "tense",
+        "past-continuous"
+      ],
+      "stem": "Fill in the blank: She ___ the report at 8 p.m.",
+      "options": [
+        "was writing",
+        "writes",
+        "wrote",
+        "is writing"
+      ],
+      "answer": 0,
+      "explanation": "At 8 p.m. describes an action in progress in the past.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-054",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A2",
+      "difficulty": 2,
+      "topic": "daily-work",
+      "tags": [
+        "tense",
+        "past-continuous"
+      ],
+      "stem": "Which option is correct? We ___ about the budget when he called.",
+      "options": [
+        "are talking",
+        "talked",
+        "were talking",
+        "talk"
+      ],
+      "answer": 2,
+      "explanation": "The background action uses were talking.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-055",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A2",
+      "difficulty": 2,
+      "topic": "daily-work",
+      "tags": [
+        "tense",
+        "past-continuous"
+      ],
+      "stem": "Select the best answer: He ___ to the airport when I saw him.",
+      "options": [
+        "drives",
+        "is driving",
+        "drove",
+        "was driving"
+      ],
+      "answer": 3,
+      "explanation": "The action in progress uses was driving.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-056",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A2",
+      "difficulty": 2,
+      "topic": "work-experience",
+      "tags": [
+        "tense",
+        "present-perfect"
+      ],
+      "stem": "Choose the correct option: I ___ the report already.",
+      "options": [
+        "finished",
+        "finishing",
+        "finish",
+        "have finished"
+      ],
+      "answer": 3,
+      "explanation": "Already with a present result uses the present perfect.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-057",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A2",
+      "difficulty": 2,
+      "topic": "work-experience",
+      "tags": [
+        "tense",
+        "present-perfect"
+      ],
+      "stem": "Which option is correct? She ___ in this company for five years.",
+      "options": [
+        "has worked",
+        "worked",
+        "working",
+        "works"
+      ],
+      "answer": 0,
+      "explanation": "For five years describes a period continuing to now.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-058",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A2",
+      "difficulty": 2,
+      "topic": "work-experience",
+      "tags": [
+        "tense",
+        "present-perfect"
+      ],
+      "stem": "Select the best answer: They ___ the contract yet.",
+      "options": [
+        "didn't sign",
+        "aren't signing",
+        "haven't signed",
+        "not signed"
+      ],
+      "answer": 2,
+      "explanation": "Yet in a negative sentence uses the present perfect.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-059",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A2",
+      "difficulty": 2,
+      "topic": "work-experience",
+      "tags": [
+        "tense",
+        "present-perfect"
+      ],
+      "stem": "Complete the sentence: We ___ each other since 2019.",
+      "options": [
+        "have known",
+        "are knowing",
+        "know",
+        "knew"
+      ],
+      "answer": 0,
+      "explanation": "Since 2019 describes a state continuing to now.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-060",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A2",
+      "difficulty": 2,
+      "topic": "work-experience",
+      "tags": [
+        "tense",
+        "present-perfect"
+      ],
+      "stem": "Complete the sentence: He ___ just sent the email.",
+      "options": [
+        "have",
+        "was",
+        "is",
+        "has"
+      ],
+      "answer": 3,
+      "explanation": "He takes has in the present perfect.",
+      "source": "adapted-public",
+      "sourceNote": "题目结构参考公开商务英语样题，内容与选项均重新编写。"
+    },
+    {
+      "id": "grammar-061",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A2",
+      "difficulty": 2,
+      "topic": "plans",
+      "tags": [
+        "tense",
+        "future",
+        "will-future"
+      ],
+      "stem": "Select the best answer: I ___ you tomorrow morning.",
+      "options": [
+        "will call",
+        "called",
+        "am calling",
+        "call"
+      ],
+      "answer": 0,
+      "explanation": "Will expresses a future intention or promise.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-062",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A2",
+      "difficulty": 2,
+      "topic": "plans",
+      "tags": [
+        "tense",
+        "future",
+        "will-future"
+      ],
+      "stem": "Fill in the blank: She ___ the report next week.",
+      "options": [
+        "finishing",
+        "will finish",
+        "finishes",
+        "finished"
+      ],
+      "answer": 1,
+      "explanation": "Next week refers to the future.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-063",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A2",
+      "difficulty": 2,
+      "topic": "plans",
+      "tags": [
+        "tense",
+        "future",
+        "will-future"
+      ],
+      "stem": "Which option is correct? They ___ to the conference next month.",
+      "options": [
+        "will go",
+        "going",
+        "go",
+        "went"
+      ],
+      "answer": 0,
+      "explanation": "Next month requires a future form.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-064",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A2",
+      "difficulty": 2,
+      "topic": "plans",
+      "tags": [
+        "tense",
+        "future",
+        "will-future"
+      ],
+      "stem": "Choose the correct option: We ___ a decision after the meeting.",
+      "options": [
+        "made",
+        "making",
+        "make",
+        "will make"
+      ],
+      "answer": 3,
+      "explanation": "After the meeting refers to a future decision.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-065",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A2",
+      "difficulty": 2,
+      "topic": "plans",
+      "tags": [
+        "tense",
+        "future",
+        "will-future"
+      ],
+      "stem": "Complete the sentence: I promise I ___ be late.",
+      "options": [
+        "don't",
+        "am not",
+        "didn't",
+        "won't"
+      ],
+      "answer": 3,
+      "explanation": "A promise about the future uses will not (won’t).",
+      "source": "original"
+    },
+    {
+      "id": "grammar-066",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A2",
+      "difficulty": 2,
+      "topic": "plans",
+      "tags": [
+        "tense",
+        "future",
+        "plans",
+        "going-to"
+      ],
+      "stem": "Choose the correct option: We ___ launch the product in May; the plan is ready.",
+      "options": [
+        "will",
+        "go",
+        "going",
+        "are going to"
+      ],
+      "answer": 3,
+      "explanation": "A planned future action uses be going to.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-067",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A2",
+      "difficulty": 2,
+      "topic": "plans",
+      "tags": [
+        "tense",
+        "future",
+        "plans",
+        "going-to"
+      ],
+      "stem": "Complete the sentence: She ___ apply for the manager position; she has prepared her CV.",
+      "options": [
+        "going",
+        "goes",
+        "will",
+        "is going to"
+      ],
+      "answer": 3,
+      "explanation": "A prior plan uses be going to.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-068",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A2",
+      "difficulty": 2,
+      "topic": "plans",
+      "tags": [
+        "tense",
+        "future",
+        "plans",
+        "going-to"
+      ],
+      "stem": "Fill in the blank: Look at those dark clouds! It ___ rain.",
+      "options": [
+        "is going to",
+        "will",
+        "rains",
+        "rained"
+      ],
+      "answer": 0,
+      "explanation": "Evidence in the present supports be going to.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-069",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A2",
+      "difficulty": 2,
+      "topic": "plans",
+      "tags": [
+        "tense",
+        "future",
+        "plans",
+        "going-to"
+      ],
+      "stem": "Which option is correct? They ___ move to a new office next year; they have signed the lease.",
+      "options": [
+        "move",
+        "moved",
+        "are going to",
+        "will"
+      ],
+      "answer": 2,
+      "explanation": "A planned future action uses be going to.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-070",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A2",
+      "difficulty": 2,
+      "topic": "plans",
+      "tags": [
+        "tense",
+        "future",
+        "plans",
+        "going-to"
+      ],
+      "stem": "Complete the sentence: I ___ call the supplier this afternoon; it's on my schedule.",
+      "options": [
+        "call",
+        "am going to",
+        "will",
+        "called"
+      ],
+      "answer": 1,
+      "explanation": "A scheduled intention uses be going to.",
+      "source": "adapted-public",
+      "sourceNote": "题目结构参考公开商务英语样题，内容与选项均重新编写。"
+    },
+    {
+      "id": "grammar-071",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A2",
+      "difficulty": 2,
+      "topic": "rules",
+      "tags": [
+        "modal",
+        "obligation",
+        "must-have-to"
+      ],
+      "stem": "Which option is correct? You ___ wear a helmet on the site.",
+      "options": [
+        "should",
+        "must",
+        "can",
+        "might"
+      ],
+      "answer": 1,
+      "explanation": "Must expresses a strong obligation or rule.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-072",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A2",
+      "difficulty": 2,
+      "topic": "rules",
+      "tags": [
+        "modal",
+        "obligation",
+        "must-have-to"
+      ],
+      "stem": "Choose the correct option: I ___ finish the report by Friday.",
+      "options": [
+        "can",
+        "should",
+        "have to",
+        "must"
+      ],
+      "answer": 2,
+      "explanation": "Have to expresses an obligation from an external requirement.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-073",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A2",
+      "difficulty": 2,
+      "topic": "rules",
+      "tags": [
+        "modal",
+        "obligation",
+        "must-have-to"
+      ],
+      "stem": "Select the best answer: She ___ work late yesterday.",
+      "options": [
+        "must",
+        "has to",
+        "have to",
+        "had to"
+      ],
+      "answer": 3,
+      "explanation": "Past obligation uses had to.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-074",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A2",
+      "difficulty": 2,
+      "topic": "rules",
+      "tags": [
+        "modal",
+        "obligation",
+        "must-have-to"
+      ],
+      "stem": "Fill in the blank: We ___ submit the form before noon.",
+      "options": [
+        "can",
+        "should",
+        "might",
+        "must"
+      ],
+      "answer": 3,
+      "explanation": "Must expresses a firm requirement.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-075",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A2",
+      "difficulty": 2,
+      "topic": "rules",
+      "tags": [
+        "modal",
+        "obligation",
+        "must-have-to"
+      ],
+      "stem": "Fill in the blank: He ___ not smoke in the building.",
+      "options": [
+        "might",
+        "should",
+        "must",
+        "can"
+      ],
+      "answer": 2,
+      "explanation": "Must not expresses prohibition.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-076",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A2",
+      "difficulty": 2,
+      "topic": "advice",
+      "tags": [
+        "modal",
+        "advice",
+        "should"
+      ],
+      "stem": "Select the best answer: You ___ see a doctor.",
+      "options": [
+        "might",
+        "must",
+        "should",
+        "can"
+      ],
+      "answer": 2,
+      "explanation": "Should is used for advice.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-077",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A2",
+      "difficulty": 2,
+      "topic": "advice",
+      "tags": [
+        "modal",
+        "advice",
+        "should"
+      ],
+      "stem": "Complete the sentence: We ___ book the room early.",
+      "options": [
+        "might",
+        "can",
+        "must",
+        "should"
+      ],
+      "answer": 3,
+      "explanation": "Should gives a recommendation.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-078",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A2",
+      "difficulty": 2,
+      "topic": "advice",
+      "tags": [
+        "modal",
+        "advice",
+        "should"
+      ],
+      "stem": "Choose the correct option: She ___ apologize for the delay.",
+      "options": [
+        "should",
+        "must",
+        "might",
+        "can"
+      ],
+      "answer": 0,
+      "explanation": "Should expresses what is advisable.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-079",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A2",
+      "difficulty": 2,
+      "topic": "advice",
+      "tags": [
+        "modal",
+        "advice",
+        "should"
+      ],
+      "stem": "Which option is correct? They ___ not ignore the warning.",
+      "options": [
+        "can",
+        "should",
+        "might",
+        "must"
+      ],
+      "answer": 1,
+      "explanation": "Should not gives negative advice.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-080",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A2",
+      "difficulty": 2,
+      "topic": "advice",
+      "tags": [
+        "modal",
+        "advice",
+        "should"
+      ],
+      "stem": "Fill in the blank: I ___ finish this today, but I'm not sure.",
+      "options": [
+        "can",
+        "must",
+        "should",
+        "might"
+      ],
+      "answer": 2,
+      "explanation": "Should expresses an expectation or recommendation.",
+      "source": "adapted-public",
+      "sourceNote": "题目结构参考公开商务英语样题，内容与选项均重新编写。"
+    },
+    {
+      "id": "grammar-081",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A2",
+      "difficulty": 2,
+      "topic": "reports",
+      "tags": [
+        "nouns",
+        "countability",
+        "countable-uncountable"
+      ],
+      "stem": "Choose the correct option: I need some ___ about the new policy.",
+      "options": [
+        "information",
+        "informations'",
+        "information's",
+        "informations"
+      ],
+      "answer": 0,
+      "explanation": "Information is uncountable and has no plural -s.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-082",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A2",
+      "difficulty": 2,
+      "topic": "reports",
+      "tags": [
+        "nouns",
+        "countability",
+        "countable-uncountable"
+      ],
+      "stem": "Complete the sentence: We have three ___ to discuss.",
+      "options": [
+        "issues",
+        "issues'",
+        "issue's",
+        "issue"
+      ],
+      "answer": 0,
+      "explanation": "Issue is countable: three issues.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-083",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A2",
+      "difficulty": 2,
+      "topic": "reports",
+      "tags": [
+        "nouns",
+        "countability",
+        "countable-uncountable"
+      ],
+      "stem": "Select the best answer: There is a lot of ___ in the report.",
+      "options": [
+        "researchs",
+        "research's",
+        "research",
+        "researches"
+      ],
+      "answer": 2,
+      "explanation": "Research is usually uncountable.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-084",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A2",
+      "difficulty": 2,
+      "topic": "reports",
+      "tags": [
+        "nouns",
+        "countability",
+        "countable-uncountable"
+      ],
+      "stem": "Fill in the blank: She gave me two ___ of advice.",
+      "options": [
+        "pieces",
+        "pieces'",
+        "piece",
+        "piecies"
+      ],
+      "answer": 0,
+      "explanation": "Advice is uncountable; use pieces of advice.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-085",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A2",
+      "difficulty": 2,
+      "topic": "reports",
+      "tags": [
+        "nouns",
+        "countability",
+        "countable-uncountable"
+      ],
+      "stem": "Which option is correct? We need more ___ before making a decision.",
+      "options": [
+        "evidences",
+        "evidence",
+        "evident",
+        "evidence's"
+      ],
+      "answer": 1,
+      "explanation": "Evidence is uncountable.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-086",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A2",
+      "difficulty": 2,
+      "topic": "quantities",
+      "tags": [
+        "quantifiers",
+        "much-many"
+      ],
+      "stem": "Choose the correct option: How ___ people attended the meeting?",
+      "options": [
+        "much",
+        "a lot",
+        "any",
+        "many"
+      ],
+      "answer": 3,
+      "explanation": "People is countable, so use many.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-087",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A2",
+      "difficulty": 2,
+      "topic": "quantities",
+      "tags": [
+        "quantifiers",
+        "much-many"
+      ],
+      "stem": "Which option is correct? How ___ time do we have?",
+      "options": [
+        "few",
+        "much",
+        "a few",
+        "many"
+      ],
+      "answer": 1,
+      "explanation": "Time is uncountable, so use much.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-088",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A2",
+      "difficulty": 2,
+      "topic": "quantities",
+      "tags": [
+        "quantifiers",
+        "much-many"
+      ],
+      "stem": "Select the best answer: There isn't ___ coffee left.",
+      "options": [
+        "much",
+        "few",
+        "a few",
+        "many"
+      ],
+      "answer": 0,
+      "explanation": "Coffee is uncountable, so use much.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-089",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A2",
+      "difficulty": 2,
+      "topic": "quantities",
+      "tags": [
+        "quantifiers",
+        "much-many"
+      ],
+      "stem": "Complete the sentence: We don't have ___ information.",
+      "options": [
+        "much",
+        "a few",
+        "few",
+        "many"
+      ],
+      "answer": 0,
+      "explanation": "Information is uncountable, so use much.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-090",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A2",
+      "difficulty": 2,
+      "topic": "quantities",
+      "tags": [
+        "quantifiers",
+        "much-many"
+      ],
+      "stem": "Complete the sentence: She has ___ friends in the company.",
+      "options": [
+        "much",
+        "little",
+        "a little",
+        "many"
+      ],
+      "answer": 3,
+      "explanation": "Friends is countable, so use many.",
+      "source": "adapted-public",
+      "sourceNote": "题目结构参考公开商务英语样题，内容与选项均重新编写。"
+    },
+    {
+      "id": "grammar-091",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A2",
+      "difficulty": 2,
+      "topic": "office",
+      "tags": [
+        "prepositions",
+        "place",
+        "prepositions-place"
+      ],
+      "stem": "Select the best answer: The report is ___ the desk.",
+      "options": [
+        "on",
+        "at",
+        "in",
+        "for"
+      ],
+      "answer": 0,
+      "explanation": "Use on for a surface.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-092",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A2",
+      "difficulty": 2,
+      "topic": "office",
+      "tags": [
+        "prepositions",
+        "place",
+        "prepositions-place"
+      ],
+      "stem": "Complete the sentence: She works ___ the third floor.",
+      "options": [
+        "at",
+        "in",
+        "for",
+        "on"
+      ],
+      "answer": 3,
+      "explanation": "Use on with floors.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-093",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A2",
+      "difficulty": 2,
+      "topic": "office",
+      "tags": [
+        "prepositions",
+        "place",
+        "prepositions-place"
+      ],
+      "stem": "Which option is correct? The meeting is ___ the conference room.",
+      "options": [
+        "for",
+        "at",
+        "in",
+        "on"
+      ],
+      "answer": 2,
+      "explanation": "Use in for an enclosed room.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-094",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A2",
+      "difficulty": 2,
+      "topic": "office",
+      "tags": [
+        "prepositions",
+        "place",
+        "prepositions-place"
+      ],
+      "stem": "Fill in the blank: I will meet you ___ the entrance.",
+      "options": [
+        "in",
+        "on",
+        "for",
+        "at"
+      ],
+      "answer": 3,
+      "explanation": "Use at for a meeting point.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-095",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A2",
+      "difficulty": 2,
+      "topic": "office",
+      "tags": [
+        "prepositions",
+        "place",
+        "prepositions-place"
+      ],
+      "stem": "Complete the sentence: The office is ___ the station.",
+      "options": [
+        "on",
+        "at",
+        "near",
+        "for"
+      ],
+      "answer": 2,
+      "explanation": "Near describes proximity.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-096",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A2",
+      "difficulty": 2,
+      "topic": "conversation",
+      "tags": [
+        "questions",
+        "tags",
+        "question-tags"
+      ],
+      "stem": "Fill in the blank: You are coming to the meeting, ___?",
+      "options": [
+        "do you",
+        "aren't you",
+        "don't you",
+        "are you"
+      ],
+      "answer": 1,
+      "explanation": "The main verb is are, so the tag is aren’t you?",
+      "source": "original"
+    },
+    {
+      "id": "grammar-097",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A2",
+      "difficulty": 2,
+      "topic": "conversation",
+      "tags": [
+        "questions",
+        "tags",
+        "question-tags"
+      ],
+      "stem": "Which option is correct? She works here, ___?",
+      "options": [
+        "isn't she",
+        "doesn't she",
+        "is she",
+        "does she"
+      ],
+      "answer": 1,
+      "explanation": "The main verb is works, so the tag is doesn’t she?",
+      "source": "original"
+    },
+    {
+      "id": "grammar-098",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A2",
+      "difficulty": 2,
+      "topic": "conversation",
+      "tags": [
+        "questions",
+        "tags",
+        "question-tags"
+      ],
+      "stem": "Complete the sentence: They finished the report, ___?",
+      "options": [
+        "did they",
+        "have they",
+        "didn't they",
+        "haven't they"
+      ],
+      "answer": 2,
+      "explanation": "Finished is past simple, so the tag is didn’t they?",
+      "source": "original"
+    },
+    {
+      "id": "grammar-099",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A2",
+      "difficulty": 2,
+      "topic": "conversation",
+      "tags": [
+        "questions",
+        "tags",
+        "question-tags"
+      ],
+      "stem": "Select the best answer: He can speak French, ___?",
+      "options": [
+        "can he",
+        "can't he",
+        "doesn't he",
+        "does he"
+      ],
+      "answer": 1,
+      "explanation": "The modal can is repeated in the tag.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-100",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A2",
+      "difficulty": 2,
+      "topic": "conversation",
+      "tags": [
+        "questions",
+        "tags",
+        "question-tags"
+      ],
+      "stem": "Which option is correct? We should leave now, ___?",
+      "options": [
+        "do we",
+        "should we",
+        "shouldn't we",
+        "don't we"
+      ],
+      "answer": 2,
+      "explanation": "The modal should is repeated in the tag.",
+      "source": "adapted-public",
+      "sourceNote": "题目结构参考公开商务英语样题，内容与选项均重新编写。"
+    },
+    {
+      "id": "grammar-101",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A2",
+      "difficulty": 2,
+      "topic": "plans",
+      "tags": [
+        "conditionals",
+        "first-conditional"
+      ],
+      "stem": "Select the best answer: If it ___ tomorrow, we will cancel the outdoor event.",
+      "options": [
+        "rained",
+        "rains",
+        "will rain",
+        "raining"
+      ],
+      "answer": 1,
+      "explanation": "The if-clause uses the present simple for a real future condition.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-102",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A2",
+      "difficulty": 2,
+      "topic": "plans",
+      "tags": [
+        "conditionals",
+        "first-conditional"
+      ],
+      "stem": "Complete the sentence: If you ___ the form, we will process your request.",
+      "options": [
+        "will submit",
+        "submitting",
+        "submitted",
+        "submit"
+      ],
+      "answer": 3,
+      "explanation": "The if-clause uses the present simple.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-103",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A2",
+      "difficulty": 2,
+      "topic": "plans",
+      "tags": [
+        "conditionals",
+        "first-conditional"
+      ],
+      "stem": "Which option is correct? She will call you if she ___ any news.",
+      "options": [
+        "will get",
+        "gets",
+        "getting",
+        "got"
+      ],
+      "answer": 1,
+      "explanation": "The if-clause uses the present simple.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-104",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A2",
+      "difficulty": 2,
+      "topic": "plans",
+      "tags": [
+        "conditionals",
+        "first-conditional"
+      ],
+      "stem": "Fill in the blank: We won't start the meeting until everyone ___.",
+      "options": [
+        "arriving",
+        "arrives",
+        "will arrive",
+        "arrived"
+      ],
+      "answer": 1,
+      "explanation": "Until introduces a future time clause with the present simple.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-105",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A2",
+      "difficulty": 2,
+      "topic": "plans",
+      "tags": [
+        "conditionals",
+        "first-conditional"
+      ],
+      "stem": "Fill in the blank: If you need help, ___ me.",
+      "options": [
+        "call",
+        "called",
+        "will call",
+        "calling"
+      ],
+      "answer": 0,
+      "explanation": "The main clause can be an imperative.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-106",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A2",
+      "difficulty": 2,
+      "topic": "work",
+      "tags": [
+        "verbs",
+        "gerund",
+        "infinitive",
+        "gerund-infinitive"
+      ],
+      "stem": "Select the best answer: She enjoys ___ with clients.",
+      "options": [
+        "worked",
+        "to work",
+        "work",
+        "working"
+      ],
+      "answer": 3,
+      "explanation": "Enjoy is followed by a gerund.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-107",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A2",
+      "difficulty": 2,
+      "topic": "work",
+      "tags": [
+        "verbs",
+        "gerund",
+        "infinitive",
+        "gerund-infinitive"
+      ],
+      "stem": "Complete the sentence: We decided ___ the meeting.",
+      "options": [
+        "to postpone",
+        "postponing",
+        "postpone",
+        "postponed"
+      ],
+      "answer": 0,
+      "explanation": "Decide is followed by the infinitive.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-108",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A2",
+      "difficulty": 2,
+      "topic": "work",
+      "tags": [
+        "verbs",
+        "gerund",
+        "infinitive",
+        "gerund-infinitive"
+      ],
+      "stem": "Which option is correct? He is interested in ___ new markets.",
+      "options": [
+        "entered",
+        "to enter",
+        "enter",
+        "entering"
+      ],
+      "answer": 3,
+      "explanation": "A preposition is followed by a gerund.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-109",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A2",
+      "difficulty": 2,
+      "topic": "work",
+      "tags": [
+        "verbs",
+        "gerund",
+        "infinitive",
+        "gerund-infinitive"
+      ],
+      "stem": "Fill in the blank: They agreed ___ the contract.",
+      "options": [
+        "signing",
+        "signed",
+        "sign",
+        "to sign"
+      ],
+      "answer": 3,
+      "explanation": "Agree is followed by the infinitive.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-110",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "A2",
+      "difficulty": 2,
+      "topic": "work",
+      "tags": [
+        "verbs",
+        "gerund",
+        "infinitive",
+        "gerund-infinitive"
+      ],
+      "stem": "Fill in the blank: I look forward to ___ from you.",
+      "options": [
+        "heard",
+        "hear",
+        "to hear",
+        "hearing"
+      ],
+      "answer": 3,
+      "explanation": "Look forward to is followed by a gerund.",
+      "source": "adapted-public",
+      "sourceNote": "题目结构参考公开商务英语样题，内容与选项均重新编写。"
+    },
+    {
+      "id": "grammar-111",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B1",
+      "difficulty": 3,
+      "topic": "work-experience",
+      "tags": [
+        "tense",
+        "perfect-continuous",
+        "present-perfect-continuous"
+      ],
+      "stem": "Which option is correct? She ___ for the company for ten years.",
+      "options": [
+        "works",
+        "worked",
+        "is working",
+        "has been working"
+      ],
+      "answer": 3,
+      "explanation": "For ten years with a continuing action uses the present perfect continuous.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-112",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B1",
+      "difficulty": 3,
+      "topic": "work-experience",
+      "tags": [
+        "tense",
+        "perfect-continuous",
+        "present-perfect-continuous"
+      ],
+      "stem": "Fill in the blank: They ___ since morning.",
+      "options": [
+        "have been waiting",
+        "waited",
+        "are waiting",
+        "wait"
+      ],
+      "answer": 0,
+      "explanation": "Since morning describes an action continuing to now.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-113",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B1",
+      "difficulty": 3,
+      "topic": "work-experience",
+      "tags": [
+        "tense",
+        "perfect-continuous",
+        "present-perfect-continuous"
+      ],
+      "stem": "Complete the sentence: I ___ on this report all day.",
+      "options": [
+        "am working",
+        "have been working",
+        "worked",
+        "work"
+      ],
+      "answer": 1,
+      "explanation": "All day with a current result uses the present perfect continuous.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-114",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B1",
+      "difficulty": 3,
+      "topic": "work-experience",
+      "tags": [
+        "tense",
+        "perfect-continuous",
+        "present-perfect-continuous"
+      ],
+      "stem": "Choose the correct option: He ___ English for two years.",
+      "options": [
+        "learned",
+        "learns",
+        "is learning",
+        "has been learning"
+      ],
+      "answer": 3,
+      "explanation": "For two years describes an ongoing learning process.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-115",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B1",
+      "difficulty": 3,
+      "topic": "work-experience",
+      "tags": [
+        "tense",
+        "perfect-continuous",
+        "present-perfect-continuous"
+      ],
+      "stem": "Fill in the blank: We ___ for the delivery since Monday.",
+      "options": [
+        "wait",
+        "have been waiting",
+        "waited",
+        "are waiting"
+      ],
+      "answer": 1,
+      "explanation": "Since Monday describes an action continuing to now.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-116",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B1",
+      "difficulty": 3,
+      "topic": "reports",
+      "tags": [
+        "tense",
+        "past-perfect"
+      ],
+      "stem": "Complete the sentence: The train ___ before we arrived.",
+      "options": [
+        "leaves",
+        "had left",
+        "left",
+        "has left"
+      ],
+      "answer": 1,
+      "explanation": "The earlier past action uses had left.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-117",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B1",
+      "difficulty": 3,
+      "topic": "reports",
+      "tags": [
+        "tense",
+        "past-perfect"
+      ],
+      "stem": "Select the best answer: She ___ the report by the time I called.",
+      "options": [
+        "has finished",
+        "had finished",
+        "finishes",
+        "finished"
+      ],
+      "answer": 1,
+      "explanation": "By the time I called marks an earlier completed action.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-118",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B1",
+      "difficulty": 3,
+      "topic": "reports",
+      "tags": [
+        "tense",
+        "past-perfect"
+      ],
+      "stem": "Which option is correct? They ___ the contract before the meeting.",
+      "options": [
+        "have signed",
+        "had signed",
+        "signed",
+        "sign"
+      ],
+      "answer": 1,
+      "explanation": "The signing happened before another past event.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-119",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B1",
+      "difficulty": 3,
+      "topic": "reports",
+      "tags": [
+        "tense",
+        "past-perfect"
+      ],
+      "stem": "Choose the correct option: I realized I ___ my phone at home.",
+      "options": [
+        "have left",
+        "left",
+        "had left",
+        "leave"
+      ],
+      "answer": 2,
+      "explanation": "The leaving happened before the realization.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-120",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B1",
+      "difficulty": 3,
+      "topic": "reports",
+      "tags": [
+        "tense",
+        "past-perfect"
+      ],
+      "stem": "Choose the correct option: We ___ each other before the conference.",
+      "options": [
+        "didn't meet",
+        "hadn't met",
+        "haven't met",
+        "don't meet"
+      ],
+      "answer": 1,
+      "explanation": "Before the conference refers to an earlier past state.",
+      "source": "adapted-public",
+      "sourceNote": "题目结构参考公开商务英语样题，内容与选项均重新编写。"
+    },
+    {
+      "id": "grammar-121",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B1",
+      "difficulty": 3,
+      "topic": "processes",
+      "tags": [
+        "passive",
+        "present",
+        "passive-present"
+      ],
+      "stem": "Fill in the blank: The report ___ every month.",
+      "options": [
+        "writes",
+        "wrote",
+        "writing",
+        "is written"
+      ],
+      "answer": 3,
+      "explanation": "The report receives the action: is written.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-122",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B1",
+      "difficulty": 3,
+      "topic": "processes",
+      "tags": [
+        "passive",
+        "present",
+        "passive-present"
+      ],
+      "stem": "Select the best answer: English ___ in many countries.",
+      "options": [
+        "spoke",
+        "speaks",
+        "speaking",
+        "is spoken"
+      ],
+      "answer": 3,
+      "explanation": "English receives the action: is spoken.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-123",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B1",
+      "difficulty": 3,
+      "topic": "processes",
+      "tags": [
+        "passive",
+        "present",
+        "passive-present"
+      ],
+      "stem": "Choose the correct option: The invoices ___ by the finance team.",
+      "options": [
+        "checked",
+        "are checked",
+        "check",
+        "checking"
+      ],
+      "answer": 1,
+      "explanation": "The plural invoices take are checked.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-124",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B1",
+      "difficulty": 3,
+      "topic": "processes",
+      "tags": [
+        "passive",
+        "present",
+        "passive-present"
+      ],
+      "stem": "Which option is correct? The office ___ every evening.",
+      "options": [
+        "is cleaned",
+        "cleaning",
+        "cleans",
+        "cleaned"
+      ],
+      "answer": 0,
+      "explanation": "The office receives the action: is cleaned.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-125",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B1",
+      "difficulty": 3,
+      "topic": "processes",
+      "tags": [
+        "passive",
+        "present",
+        "passive-present"
+      ],
+      "stem": "Select the best answer: New employees ___ a training session.",
+      "options": [
+        "give",
+        "giving",
+        "gave",
+        "are given"
+      ],
+      "answer": 3,
+      "explanation": "Employees receive the training: are given.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-126",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B1",
+      "difficulty": 3,
+      "topic": "processes",
+      "tags": [
+        "passive",
+        "past",
+        "passive-past"
+      ],
+      "stem": "Complete the sentence: The contract ___ yesterday.",
+      "options": [
+        "signs",
+        "signing",
+        "was signed",
+        "signed"
+      ],
+      "answer": 2,
+      "explanation": "The contract received the action in the past: was signed.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-127",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B1",
+      "difficulty": 3,
+      "topic": "processes",
+      "tags": [
+        "passive",
+        "past",
+        "passive-past"
+      ],
+      "stem": "Select the best answer: The email ___ to all staff.",
+      "options": [
+        "was sent",
+        "sending",
+        "sends",
+        "sent"
+      ],
+      "answer": 0,
+      "explanation": "The email received the action: was sent.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-128",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B1",
+      "difficulty": 3,
+      "topic": "processes",
+      "tags": [
+        "passive",
+        "past",
+        "passive-past"
+      ],
+      "stem": "Which option is correct? The meeting ___ until next week.",
+      "options": [
+        "postponed",
+        "was postponed",
+        "postponing",
+        "postpones"
+      ],
+      "answer": 1,
+      "explanation": "The meeting received the action: was postponed.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-129",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B1",
+      "difficulty": 3,
+      "topic": "processes",
+      "tags": [
+        "passive",
+        "past",
+        "passive-past"
+      ],
+      "stem": "Choose the correct option: The old system ___ last year.",
+      "options": [
+        "replaces",
+        "was replaced",
+        "replaced",
+        "replacing"
+      ],
+      "answer": 1,
+      "explanation": "The system received the action: was replaced.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-130",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B1",
+      "difficulty": 3,
+      "topic": "processes",
+      "tags": [
+        "passive",
+        "past",
+        "passive-past"
+      ],
+      "stem": "Select the best answer: The issue ___ by the IT team.",
+      "options": [
+        "was fixed",
+        "fixing",
+        "fixed",
+        "fixes"
+      ],
+      "answer": 0,
+      "explanation": "The issue received the action: was fixed.",
+      "source": "adapted-public",
+      "sourceNote": "题目结构参考公开商务英语样题，内容与选项均重新编写。"
+    },
+    {
+      "id": "grammar-131",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B1",
+      "difficulty": 3,
+      "topic": "decisions",
+      "tags": [
+        "conditionals",
+        "second-conditional"
+      ],
+      "stem": "Select the best answer: If I ___ more time, I would travel.",
+      "options": [
+        "have",
+        "having",
+        "will have",
+        "had"
+      ],
+      "answer": 3,
+      "explanation": "The second conditional uses the past simple in the if-clause.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-132",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B1",
+      "difficulty": 3,
+      "topic": "decisions",
+      "tags": [
+        "conditionals",
+        "second-conditional"
+      ],
+      "stem": "Complete the sentence: If she ___ the manager, she would change the policy.",
+      "options": [
+        "is",
+        "were",
+        "will be",
+        "been"
+      ],
+      "answer": 1,
+      "explanation": "Were is used for an unreal present condition.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-133",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B1",
+      "difficulty": 3,
+      "topic": "decisions",
+      "tags": [
+        "conditionals",
+        "second-conditional"
+      ],
+      "stem": "Which option is correct? We would save money if we ___ less.",
+      "options": [
+        "travel",
+        "will travel",
+        "travelled",
+        "travelling"
+      ],
+      "answer": 2,
+      "explanation": "The if-clause uses the past simple.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-134",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B1",
+      "difficulty": 3,
+      "topic": "decisions",
+      "tags": [
+        "conditionals",
+        "second-conditional"
+      ],
+      "stem": "Fill in the blank: If I ___ you, I would accept the offer.",
+      "options": [
+        "were",
+        "will be",
+        "be",
+        "am"
+      ],
+      "answer": 0,
+      "explanation": "If I were you is a fixed unreal condition.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-135",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B1",
+      "difficulty": 3,
+      "topic": "decisions",
+      "tags": [
+        "conditionals",
+        "second-conditional"
+      ],
+      "stem": "Complete the sentence: They would buy the product if it ___ cheaper.",
+      "options": [
+        "will be",
+        "been",
+        "is",
+        "were"
+      ],
+      "answer": 3,
+      "explanation": "The unreal condition uses were.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-136",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B1",
+      "difficulty": 3,
+      "topic": "people-things",
+      "tags": [
+        "relative-clauses",
+        "who-which",
+        "relative-who-which"
+      ],
+      "stem": "Which option is correct? The person ___ called you is my manager.",
+      "options": [
+        "where",
+        "whose",
+        "which",
+        "who"
+      ],
+      "answer": 3,
+      "explanation": "Who refers to a person.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-137",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B1",
+      "difficulty": 3,
+      "topic": "people-things",
+      "tags": [
+        "relative-clauses",
+        "who-which",
+        "relative-who-which"
+      ],
+      "stem": "Fill in the blank: The report ___ I sent yesterday is on your desk.",
+      "options": [
+        "where",
+        "who",
+        "which",
+        "whose"
+      ],
+      "answer": 2,
+      "explanation": "Which refers to a thing.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-138",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B1",
+      "difficulty": 3,
+      "topic": "people-things",
+      "tags": [
+        "relative-clauses",
+        "who-which",
+        "relative-who-which"
+      ],
+      "stem": "Complete the sentence: The client ___ we met last week is from Japan.",
+      "options": [
+        "where",
+        "who",
+        "which",
+        "whose"
+      ],
+      "answer": 1,
+      "explanation": "Who refers to a person.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-139",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B1",
+      "difficulty": 3,
+      "topic": "people-things",
+      "tags": [
+        "relative-clauses",
+        "who-which",
+        "relative-who-which"
+      ],
+      "stem": "Choose the correct option: The software ___ we use is very reliable.",
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "where"
+      ],
+      "answer": 1,
+      "explanation": "Which refers to a thing.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-140",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B1",
+      "difficulty": 3,
+      "topic": "people-things",
+      "tags": [
+        "relative-clauses",
+        "who-which",
+        "relative-who-which"
+      ],
+      "stem": "Fill in the blank: The colleague ___ helped me was very kind.",
+      "options": [
+        "which",
+        "whose",
+        "who",
+        "where"
+      ],
+      "answer": 2,
+      "explanation": "Who refers to a person.",
+      "source": "adapted-public",
+      "sourceNote": "题目结构参考公开商务英语样题，内容与选项均重新编写。"
+    },
+    {
+      "id": "grammar-141",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B1",
+      "difficulty": 3,
+      "topic": "places-possession",
+      "tags": [
+        "relative-clauses",
+        "whose-where",
+        "relative-whose-where"
+      ],
+      "stem": "Which option is correct? The manager ___ office is on the third floor is away.",
+      "options": [
+        "who",
+        "where",
+        "which",
+        "whose"
+      ],
+      "answer": 3,
+      "explanation": "Whose shows possession.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-142",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B1",
+      "difficulty": 3,
+      "topic": "places-possession",
+      "tags": [
+        "relative-clauses",
+        "whose-where",
+        "relative-whose-where"
+      ],
+      "stem": "Fill in the blank: This is the city ___ our headquarters is located.",
+      "options": [
+        "where",
+        "who",
+        "whose",
+        "which"
+      ],
+      "answer": 0,
+      "explanation": "Where refers to a place.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-143",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B1",
+      "difficulty": 3,
+      "topic": "places-possession",
+      "tags": [
+        "relative-clauses",
+        "whose-where",
+        "relative-whose-where"
+      ],
+      "stem": "Select the best answer: The company ___ products are popular is based in Korea.",
+      "options": [
+        "which",
+        "who",
+        "whose",
+        "where"
+      ],
+      "answer": 2,
+      "explanation": "Whose shows possession.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-144",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B1",
+      "difficulty": 3,
+      "topic": "places-possession",
+      "tags": [
+        "relative-clauses",
+        "whose-where",
+        "relative-whose-where"
+      ],
+      "stem": "Complete the sentence: The room ___ we hold meetings is being renovated.",
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "where"
+      ],
+      "answer": 3,
+      "explanation": "Where refers to a place.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-145",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B1",
+      "difficulty": 3,
+      "topic": "places-possession",
+      "tags": [
+        "relative-clauses",
+        "whose-where",
+        "relative-whose-where"
+      ],
+      "stem": "Choose the correct option: I met a supplier ___ factory is in Vietnam.",
+      "options": [
+        "where",
+        "which",
+        "who",
+        "whose"
+      ],
+      "answer": 3,
+      "explanation": "Whose shows possession.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-146",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B1",
+      "difficulty": 3,
+      "topic": "communication",
+      "tags": [
+        "reported-speech"
+      ],
+      "stem": "Choose the correct option: She said she ___ the report.",
+      "options": [
+        "finishing",
+        "had finished",
+        "has finished",
+        "finish"
+      ],
+      "answer": 1,
+      "explanation": "Reported speech often shifts back one tense.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-147",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B1",
+      "difficulty": 3,
+      "topic": "communication",
+      "tags": [
+        "reported-speech"
+      ],
+      "stem": "Complete the sentence: He told me he ___ to the meeting.",
+      "options": [
+        "will come",
+        "would come",
+        "coming",
+        "comes"
+      ],
+      "answer": 1,
+      "explanation": "Will becomes would in reported speech.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-148",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B1",
+      "difficulty": 3,
+      "topic": "communication",
+      "tags": [
+        "reported-speech"
+      ],
+      "stem": "Select the best answer: They said they ___ the contract.",
+      "options": [
+        "have signed",
+        "sign",
+        "had signed",
+        "signing"
+      ],
+      "answer": 2,
+      "explanation": "The present perfect shifts to the past perfect.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-149",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B1",
+      "difficulty": 3,
+      "topic": "communication",
+      "tags": [
+        "reported-speech"
+      ],
+      "stem": "Fill in the blank: She said she ___ busy.",
+      "options": [
+        "is",
+        "being",
+        "was",
+        "be"
+      ],
+      "answer": 2,
+      "explanation": "The present simple shifts to the past simple.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-150",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B1",
+      "difficulty": 3,
+      "topic": "communication",
+      "tags": [
+        "reported-speech"
+      ],
+      "stem": "Which option is correct? He said he ___ the email.",
+      "options": [
+        "had sent",
+        "has sent",
+        "sending",
+        "send"
+      ],
+      "answer": 0,
+      "explanation": "The present perfect shifts to the past perfect.",
+      "source": "adapted-public",
+      "sourceNote": "题目结构参考公开商务英语样题，内容与选项均重新编写。"
+    },
+    {
+      "id": "grammar-151",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B1",
+      "difficulty": 3,
+      "topic": "past-habits",
+      "tags": [
+        "past",
+        "habits",
+        "used-to"
+      ],
+      "stem": "Select the best answer: I ___ live in London.",
+      "options": [
+        "using to",
+        "used",
+        "used to",
+        "use to"
+      ],
+      "answer": 2,
+      "explanation": "Used to describes a past state or habit.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-152",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B1",
+      "difficulty": 3,
+      "topic": "past-habits",
+      "tags": [
+        "past",
+        "habits",
+        "used-to"
+      ],
+      "stem": "Complete the sentence: She ___ have a company car.",
+      "options": [
+        "using to",
+        "used to",
+        "used",
+        "use to"
+      ],
+      "answer": 1,
+      "explanation": "Used to describes a past state.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-153",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B1",
+      "difficulty": 3,
+      "topic": "past-habits",
+      "tags": [
+        "past",
+        "habits",
+        "used-to"
+      ],
+      "stem": "Choose the correct option: They ___ work in the old office, but now they work here.",
+      "options": [
+        "use to",
+        "used",
+        "using to",
+        "used to"
+      ],
+      "answer": 3,
+      "explanation": "Used to describes a past habit.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-154",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B1",
+      "difficulty": 3,
+      "topic": "past-habits",
+      "tags": [
+        "past",
+        "habits",
+        "used-to"
+      ],
+      "stem": "Which option is correct? He ___ play tennis every weekend.",
+      "options": [
+        "used to",
+        "used",
+        "use to",
+        "using to"
+      ],
+      "answer": 0,
+      "explanation": "Used to describes a repeated past activity.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-155",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B1",
+      "difficulty": 3,
+      "topic": "past-habits",
+      "tags": [
+        "past",
+        "habits",
+        "used-to"
+      ],
+      "stem": "Fill in the blank: We ___ have an office in Paris.",
+      "options": [
+        "using to",
+        "use to",
+        "used to",
+        "used"
+      ],
+      "answer": 2,
+      "explanation": "Used to describes a past state.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-156",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B1",
+      "difficulty": 3,
+      "topic": "products",
+      "tags": [
+        "adjectives",
+        "degree",
+        "too-enough"
+      ],
+      "stem": "Fill in the blank: The coffee is ___ hot to drink.",
+      "options": [
+        "enough",
+        "much",
+        "very",
+        "too"
+      ],
+      "answer": 3,
+      "explanation": "Too + adjective means more than is wanted.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-157",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B1",
+      "difficulty": 3,
+      "topic": "products",
+      "tags": [
+        "adjectives",
+        "degree",
+        "too-enough"
+      ],
+      "stem": "Select the best answer: She isn't old ___ to drive.",
+      "options": [
+        "too",
+        "very",
+        "much",
+        "enough"
+      ],
+      "answer": 3,
+      "explanation": "Enough comes after the adjective.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-158",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B1",
+      "difficulty": 3,
+      "topic": "products",
+      "tags": [
+        "adjectives",
+        "degree",
+        "too-enough"
+      ],
+      "stem": "Choose the correct option: We don't have ___ time to finish.",
+      "options": [
+        "enough",
+        "very",
+        "too",
+        "much"
+      ],
+      "answer": 0,
+      "explanation": "Enough comes before a noun.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-159",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B1",
+      "difficulty": 3,
+      "topic": "products",
+      "tags": [
+        "adjectives",
+        "degree",
+        "too-enough"
+      ],
+      "stem": "Which option is correct? The room is ___ small for ten people.",
+      "options": [
+        "very",
+        "enough",
+        "much",
+        "too"
+      ],
+      "answer": 3,
+      "explanation": "Too + adjective expresses an excessive degree.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-160",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B1",
+      "difficulty": 3,
+      "topic": "products",
+      "tags": [
+        "adjectives",
+        "degree",
+        "too-enough"
+      ],
+      "stem": "Select the best answer: He is experienced ___ to lead the team.",
+      "options": [
+        "very",
+        "enough",
+        "much",
+        "too"
+      ],
+      "answer": 1,
+      "explanation": "Enough follows the adjective.",
+      "source": "adapted-public",
+      "sourceNote": "题目结构参考公开商务英语样题，内容与选项均重新编写。"
+    },
+    {
+      "id": "grammar-161",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B1",
+      "difficulty": 3,
+      "topic": "meetings",
+      "tags": [
+        "degree",
+        "so-such"
+      ],
+      "stem": "Complete the sentence: It was ___ a good meeting that we stayed late.",
+      "options": [
+        "very",
+        "such",
+        "too",
+        "so"
+      ],
+      "answer": 1,
+      "explanation": "Such + a/an + adjective + noun.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-162",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B1",
+      "difficulty": 3,
+      "topic": "meetings",
+      "tags": [
+        "degree",
+        "so-such"
+      ],
+      "stem": "Select the best answer: The report was ___ long that nobody read it.",
+      "options": [
+        "so",
+        "such",
+        "very",
+        "too"
+      ],
+      "answer": 0,
+      "explanation": "So + adjective + that.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-163",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B1",
+      "difficulty": 3,
+      "topic": "meetings",
+      "tags": [
+        "degree",
+        "so-such"
+      ],
+      "stem": "Which option is correct? She is ___ an efficient manager.",
+      "options": [
+        "too",
+        "so",
+        "very",
+        "such"
+      ],
+      "answer": 3,
+      "explanation": "Such + a/an + adjective + noun.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-164",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B1",
+      "difficulty": 3,
+      "topic": "meetings",
+      "tags": [
+        "degree",
+        "so-such"
+      ],
+      "stem": "Choose the correct option: They had ___ many questions that we extended the session.",
+      "options": [
+        "so",
+        "very",
+        "such",
+        "too"
+      ],
+      "answer": 0,
+      "explanation": "So + many + plural noun.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-165",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B1",
+      "difficulty": 3,
+      "topic": "meetings",
+      "tags": [
+        "degree",
+        "so-such"
+      ],
+      "stem": "Choose the correct option: It was ___ a useful training session.",
+      "options": [
+        "too",
+        "so",
+        "such",
+        "very"
+      ],
+      "answer": 2,
+      "explanation": "Such + a/an + adjective + noun.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-166",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B1",
+      "difficulty": 3,
+      "topic": "quantities",
+      "tags": [
+        "quantifiers",
+        "few-little"
+      ],
+      "stem": "Fill in the blank: There are ___ people in the office today.",
+      "options": [
+        "few",
+        "little",
+        "a little",
+        "a few"
+      ],
+      "answer": 0,
+      "explanation": "Few + plural noun means almost none.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-167",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B1",
+      "difficulty": 3,
+      "topic": "quantities",
+      "tags": [
+        "quantifiers",
+        "few-little"
+      ],
+      "stem": "Select the best answer: We have ___ time left before the deadline.",
+      "options": [
+        "a few",
+        "little",
+        "few",
+        "a little"
+      ],
+      "answer": 1,
+      "explanation": "Little + uncountable noun means almost none.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-168",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B1",
+      "difficulty": 3,
+      "topic": "quantities",
+      "tags": [
+        "quantifiers",
+        "few-little"
+      ],
+      "stem": "Choose the correct option: Only ___ employees attended the training.",
+      "options": [
+        "a few",
+        "a little",
+        "little",
+        "few"
+      ],
+      "answer": 0,
+      "explanation": "A few means some, with a positive meaning.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-169",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B1",
+      "difficulty": 3,
+      "topic": "quantities",
+      "tags": [
+        "quantifiers",
+        "few-little"
+      ],
+      "stem": "Which option is correct? She has ___ experience in marketing.",
+      "options": [
+        "a few",
+        "little",
+        "few",
+        "a little"
+      ],
+      "answer": 1,
+      "explanation": "Little + uncountable noun means not much.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-170",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B1",
+      "difficulty": 3,
+      "topic": "quantities",
+      "tags": [
+        "quantifiers",
+        "few-little"
+      ],
+      "stem": "Select the best answer: There is ___ hope of finishing today.",
+      "options": [
+        "a few",
+        "little",
+        "few",
+        "a little"
+      ],
+      "answer": 1,
+      "explanation": "Little + uncountable noun means almost no hope.",
+      "source": "adapted-public",
+      "sourceNote": "题目结构参考公开商务英语样题，内容与选项均重新编写。"
+    },
+    {
+      "id": "grammar-171",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B1",
+      "difficulty": 3,
+      "topic": "work",
+      "tags": [
+        "prepositions",
+        "collocation",
+        "dependent-prepositions"
+      ],
+      "stem": "Choose the correct option: We need to focus ___ the customer.",
+      "options": [
+        "on",
+        "at",
+        "for",
+        "in"
+      ],
+      "answer": 0,
+      "explanation": "Focus on is the correct collocation.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-172",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B1",
+      "difficulty": 3,
+      "topic": "work",
+      "tags": [
+        "prepositions",
+        "collocation",
+        "dependent-prepositions"
+      ],
+      "stem": "Which option is correct? She is responsible ___ the budget.",
+      "options": [
+        "at",
+        "on",
+        "of",
+        "for"
+      ],
+      "answer": 3,
+      "explanation": "Responsible for is the correct collocation.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-173",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B1",
+      "difficulty": 3,
+      "topic": "work",
+      "tags": [
+        "prepositions",
+        "collocation",
+        "dependent-prepositions"
+      ],
+      "stem": "Select the best answer: The report depends ___ accurate data.",
+      "options": [
+        "at",
+        "on",
+        "in",
+        "for"
+      ],
+      "answer": 1,
+      "explanation": "Depend on is the correct collocation.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-174",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B1",
+      "difficulty": 3,
+      "topic": "work",
+      "tags": [
+        "prepositions",
+        "collocation",
+        "dependent-prepositions"
+      ],
+      "stem": "Complete the sentence: We are looking forward ___ the launch.",
+      "options": [
+        "on",
+        "at",
+        "to",
+        "for"
+      ],
+      "answer": 2,
+      "explanation": "Look forward to is the correct collocation.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-175",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B1",
+      "difficulty": 3,
+      "topic": "work",
+      "tags": [
+        "prepositions",
+        "collocation",
+        "dependent-prepositions"
+      ],
+      "stem": "Which option is correct? He is good ___ solving problems.",
+      "options": [
+        "for",
+        "in",
+        "on",
+        "at"
+      ],
+      "answer": 3,
+      "explanation": "Good at is the correct collocation.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-176",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B1",
+      "difficulty": 3,
+      "topic": "office",
+      "tags": [
+        "phrasal-verbs"
+      ],
+      "stem": "Which option is correct? We need to ___ the meeting until next week.",
+      "options": [
+        "put up",
+        "put on",
+        "put out",
+        "put off"
+      ],
+      "answer": 3,
+      "explanation": "Put off means postpone.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-177",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B1",
+      "difficulty": 3,
+      "topic": "office",
+      "tags": [
+        "phrasal-verbs"
+      ],
+      "stem": "Choose the correct option: The company had to ___ the launch because of delays.",
+      "options": [
+        "call for",
+        "call off",
+        "call on",
+        "call up"
+      ],
+      "answer": 1,
+      "explanation": "Call off means cancel.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-178",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B1",
+      "difficulty": 3,
+      "topic": "office",
+      "tags": [
+        "phrasal-verbs"
+      ],
+      "stem": "Complete the sentence: Please ___ the form and return it to HR.",
+      "options": [
+        "fill for",
+        "fill on",
+        "fill in",
+        "fill up"
+      ],
+      "answer": 2,
+      "explanation": "Fill in means complete a form.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-179",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B1",
+      "difficulty": 3,
+      "topic": "office",
+      "tags": [
+        "phrasal-verbs"
+      ],
+      "stem": "Select the best answer: They will ___ a new branch in Tokyo.",
+      "options": [
+        "set up",
+        "set in",
+        "set out",
+        "set off"
+      ],
+      "answer": 0,
+      "explanation": "Set up means establish.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-180",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B1",
+      "difficulty": 3,
+      "topic": "office",
+      "tags": [
+        "phrasal-verbs"
+      ],
+      "stem": "Fill in the blank: We need to ___ the problem before Friday.",
+      "options": [
+        "sort on",
+        "sort out",
+        "sort up",
+        "sort in"
+      ],
+      "answer": 1,
+      "explanation": "Sort out means resolve.",
+      "source": "adapted-public",
+      "sourceNote": "题目结构参考公开商务英语样题，内容与选项均重新编写。"
+    },
+    {
+      "id": "grammar-181",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B1",
+      "difficulty": 3,
+      "topic": "reports",
+      "tags": [
+        "agreement",
+        "subject-verb-agreement"
+      ],
+      "stem": "Complete the sentence: The list of items ___ on the desk.",
+      "options": [
+        "are",
+        "be",
+        "is",
+        "been"
+      ],
+      "answer": 2,
+      "explanation": "The subject is the singular list, not items.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-182",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B1",
+      "difficulty": 3,
+      "topic": "reports",
+      "tags": [
+        "agreement",
+        "subject-verb-agreement"
+      ],
+      "stem": "Choose the correct option: Each employee ___ a badge.",
+      "options": [
+        "having",
+        "has",
+        "have",
+        "had"
+      ],
+      "answer": 1,
+      "explanation": "Each takes a singular verb.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-183",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B1",
+      "difficulty": 3,
+      "topic": "reports",
+      "tags": [
+        "agreement",
+        "subject-verb-agreement"
+      ],
+      "stem": "Which option is correct? The team ___ meeting every Monday.",
+      "options": [
+        "been",
+        "are",
+        "is",
+        "be"
+      ],
+      "answer": 2,
+      "explanation": "Team is treated as a singular unit here.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-184",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B1",
+      "difficulty": 3,
+      "topic": "reports",
+      "tags": [
+        "agreement",
+        "subject-verb-agreement"
+      ],
+      "stem": "Fill in the blank: Neither the manager nor the assistants ___ available.",
+      "options": [
+        "been",
+        "is",
+        "are",
+        "be"
+      ],
+      "answer": 2,
+      "explanation": "The verb agrees with the nearer subject, assistants.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-185",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B1",
+      "difficulty": 3,
+      "topic": "reports",
+      "tags": [
+        "agreement",
+        "subject-verb-agreement"
+      ],
+      "stem": "Select the best answer: The news ___ very positive.",
+      "options": [
+        "is",
+        "be",
+        "are",
+        "been"
+      ],
+      "answer": 0,
+      "explanation": "News is an uncountable singular noun.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-186",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B1",
+      "difficulty": 3,
+      "topic": "writing",
+      "tags": [
+        "linking",
+        "cohesion",
+        "linking-words"
+      ],
+      "stem": "Complete the sentence: We missed the deadline; ___, we still delivered the report.",
+      "options": [
+        "for example",
+        "therefore",
+        "however",
+        "moreover"
+      ],
+      "answer": 2,
+      "explanation": "However introduces a contrast.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-187",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B1",
+      "difficulty": 3,
+      "topic": "writing",
+      "tags": [
+        "linking",
+        "cohesion",
+        "linking-words"
+      ],
+      "stem": "Select the best answer: The product is popular. ___, sales have increased.",
+      "options": [
+        "Therefore",
+        "Unless",
+        "Although",
+        "However"
+      ],
+      "answer": 0,
+      "explanation": "Therefore introduces a result.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-188",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B1",
+      "difficulty": 3,
+      "topic": "writing",
+      "tags": [
+        "linking",
+        "cohesion",
+        "linking-words"
+      ],
+      "stem": "Fill in the blank: The team worked overtime. ___, the project was completed on time.",
+      "options": [
+        "Although",
+        "However",
+        "Unless",
+        "As a result"
+      ],
+      "answer": 3,
+      "explanation": "As a result introduces a consequence.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-189",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B1",
+      "difficulty": 3,
+      "topic": "writing",
+      "tags": [
+        "linking",
+        "cohesion",
+        "linking-words"
+      ],
+      "stem": "Which option is correct? The service is good; ___, it is quite expensive.",
+      "options": [
+        "therefore",
+        "however",
+        "moreover",
+        "for example"
+      ],
+      "answer": 1,
+      "explanation": "However introduces a contrast.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-190",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B1",
+      "difficulty": 3,
+      "topic": "writing",
+      "tags": [
+        "linking",
+        "cohesion",
+        "linking-words"
+      ],
+      "stem": "Select the best answer: ___ the bad weather, the event was a success.",
+      "options": [
+        "Despite",
+        "Because",
+        "Although",
+        "Unless"
+      ],
+      "answer": 0,
+      "explanation": "Despite is followed by a noun phrase.",
+      "source": "adapted-public",
+      "sourceNote": "题目结构参考公开商务英语样题，内容与选项均重新编写。"
+    },
+    {
+      "id": "grammar-191",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B2",
+      "difficulty": 4,
+      "topic": "decisions",
+      "tags": [
+        "conditionals",
+        "third-conditional"
+      ],
+      "stem": "Complete the sentence: If we ___ earlier, we would have caught the train.",
+      "options": [
+        "left",
+        "have left",
+        "had left",
+        "leaving"
+      ],
+      "answer": 2,
+      "explanation": "The third conditional uses had + past participle.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-192",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B2",
+      "difficulty": 4,
+      "topic": "decisions",
+      "tags": [
+        "conditionals",
+        "third-conditional"
+      ],
+      "stem": "Select the best answer: She would have passed the exam if she ___ harder.",
+      "options": [
+        "studied",
+        "had studied",
+        "studying",
+        "has studied"
+      ],
+      "answer": 1,
+      "explanation": "The if-clause uses the past perfect.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-193",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B2",
+      "difficulty": 4,
+      "topic": "decisions",
+      "tags": [
+        "conditionals",
+        "third-conditional"
+      ],
+      "stem": "Fill in the blank: If they ___ the contract, we would have lost the client.",
+      "options": [
+        "hadn't signed",
+        "not signed",
+        "haven't signed",
+        "didn't sign"
+      ],
+      "answer": 0,
+      "explanation": "The negative third conditional uses hadn’t + past participle.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-194",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B2",
+      "difficulty": 4,
+      "topic": "decisions",
+      "tags": [
+        "conditionals",
+        "third-conditional"
+      ],
+      "stem": "Which option is correct? We would have finished if we ___ more time.",
+      "options": [
+        "had",
+        "have had",
+        "had had",
+        "having"
+      ],
+      "answer": 2,
+      "explanation": "The past perfect of have is had had.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-195",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B2",
+      "difficulty": 4,
+      "topic": "decisions",
+      "tags": [
+        "conditionals",
+        "third-conditional"
+      ],
+      "stem": "Choose the correct option: If I ___ about the delay, I would have called.",
+      "options": [
+        "knowing",
+        "have known",
+        "had known",
+        "knew"
+      ],
+      "answer": 2,
+      "explanation": "The if-clause uses the past perfect.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-196",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B2",
+      "difficulty": 4,
+      "topic": "decisions",
+      "tags": [
+        "conditionals",
+        "mixed",
+        "mixed-conditional"
+      ],
+      "stem": "Complete the sentence: If I ___ more confident, I would have given the presentation.",
+      "options": [
+        "had been",
+        "would be",
+        "were",
+        "am"
+      ],
+      "answer": 2,
+      "explanation": "A present condition with a past result uses were.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-197",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B2",
+      "difficulty": 4,
+      "topic": "decisions",
+      "tags": [
+        "conditionals",
+        "mixed",
+        "mixed-conditional"
+      ],
+      "stem": "Select the best answer: If she had taken the job, she ___ in New York now.",
+      "options": [
+        "lives",
+        "would be living",
+        "lived",
+        "would have lived"
+      ],
+      "answer": 1,
+      "explanation": "A past condition with a present result uses would be living.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-198",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B2",
+      "difficulty": 4,
+      "topic": "decisions",
+      "tags": [
+        "conditionals",
+        "mixed",
+        "mixed-conditional"
+      ],
+      "stem": "Which option is correct? If he ___ the training, he would be better prepared now.",
+      "options": [
+        "had attended",
+        "attends",
+        "attended",
+        "has attended"
+      ],
+      "answer": 0,
+      "explanation": "A past condition with a present result uses had attended.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-199",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B2",
+      "difficulty": 4,
+      "topic": "decisions",
+      "tags": [
+        "conditionals",
+        "mixed",
+        "mixed-conditional"
+      ],
+      "stem": "Choose the correct option: We would have more clients if we ___ more last year.",
+      "options": [
+        "have advertised",
+        "advertised",
+        "had advertised",
+        "advertise"
+      ],
+      "answer": 2,
+      "explanation": "A past action affects the present result.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-200",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B2",
+      "difficulty": 4,
+      "topic": "decisions",
+      "tags": [
+        "conditionals",
+        "mixed",
+        "mixed-conditional"
+      ],
+      "stem": "Choose the correct option: If they ___ the offer, they would be working here now.",
+      "options": [
+        "accept",
+        "accepted",
+        "have accepted",
+        "had accepted"
+      ],
+      "answer": 3,
+      "explanation": "A past condition with a present result uses had accepted.",
+      "source": "adapted-public",
+      "sourceNote": "题目结构参考公开商务英语样题，内容与选项均重新编写。"
+    },
+    {
+      "id": "grammar-201",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B2",
+      "difficulty": 4,
+      "topic": "processes",
+      "tags": [
+        "passive",
+        "future",
+        "passive-future"
+      ],
+      "stem": "Fill in the blank: The report ___ by Friday.",
+      "options": [
+        "will finish",
+        "finishes",
+        "finished",
+        "will be finished"
+      ],
+      "answer": 3,
+      "explanation": "The future passive is will be + past participle.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-202",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B2",
+      "difficulty": 4,
+      "topic": "processes",
+      "tags": [
+        "passive",
+        "future",
+        "passive-future"
+      ],
+      "stem": "Select the best answer: The new office ___ next month.",
+      "options": [
+        "will be opened",
+        "opens",
+        "opened",
+        "will open"
+      ],
+      "answer": 0,
+      "explanation": "The office receives the action: will be opened.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-203",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B2",
+      "difficulty": 4,
+      "topic": "processes",
+      "tags": [
+        "passive",
+        "future",
+        "passive-future"
+      ],
+      "stem": "Complete the sentence: The candidates ___ tomorrow.",
+      "options": [
+        "interview",
+        "interviewed",
+        "will interview",
+        "will be interviewed"
+      ],
+      "answer": 3,
+      "explanation": "The candidates receive the action: will be interviewed.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-204",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B2",
+      "difficulty": 4,
+      "topic": "processes",
+      "tags": [
+        "passive",
+        "future",
+        "passive-future"
+      ],
+      "stem": "Choose the correct option: The issue ___ at the next meeting.",
+      "options": [
+        "discusses",
+        "will discuss",
+        "discussed",
+        "will be discussed"
+      ],
+      "answer": 3,
+      "explanation": "The issue receives the action: will be discussed.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-205",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B2",
+      "difficulty": 4,
+      "topic": "processes",
+      "tags": [
+        "passive",
+        "future",
+        "passive-future"
+      ],
+      "stem": "Which option is correct? The invoices ___ by the end of the week.",
+      "options": [
+        "will be sent",
+        "will send",
+        "send",
+        "sent"
+      ],
+      "answer": 0,
+      "explanation": "The invoices receive the action: will be sent.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-206",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B2",
+      "difficulty": 4,
+      "topic": "deduction",
+      "tags": [
+        "modal",
+        "past-deduction",
+        "modal-perfect"
+      ],
+      "stem": "Which option is correct? She ___ the email; I never received it.",
+      "options": [
+        "should forget",
+        "must forget",
+        "must have forgotten",
+        "could forget"
+      ],
+      "answer": 2,
+      "explanation": "Must have + past participle expresses a strong deduction about the past.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-207",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B2",
+      "difficulty": 4,
+      "topic": "deduction",
+      "tags": [
+        "modal",
+        "past-deduction",
+        "modal-perfect"
+      ],
+      "stem": "Fill in the blank: They ___ earlier, but they missed the train.",
+      "options": [
+        "must leave",
+        "could leave",
+        "should leave",
+        "should have left"
+      ],
+      "answer": 3,
+      "explanation": "Should have + past participle expresses regret about the past.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-208",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B2",
+      "difficulty": 4,
+      "topic": "deduction",
+      "tags": [
+        "modal",
+        "past-deduction",
+        "modal-perfect"
+      ],
+      "stem": "Select the best answer: He ___ the news; he looks very happy.",
+      "options": [
+        "could hear",
+        "must have heard",
+        "must hear",
+        "should hear"
+      ],
+      "answer": 1,
+      "explanation": "Must have + past participle expresses a confident deduction.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-209",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B2",
+      "difficulty": 4,
+      "topic": "deduction",
+      "tags": [
+        "modal",
+        "past-deduction",
+        "modal-perfect"
+      ],
+      "stem": "Complete the sentence: We ___ more time; the report is incomplete.",
+      "options": [
+        "must allow",
+        "could allow",
+        "should allow",
+        "should have allowed"
+      ],
+      "answer": 3,
+      "explanation": "Should have + past participle criticizes a past decision.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-210",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B2",
+      "difficulty": 4,
+      "topic": "deduction",
+      "tags": [
+        "modal",
+        "past-deduction",
+        "modal-perfect"
+      ],
+      "stem": "Choose the correct option: She ___ the meeting; she was in the office all day.",
+      "options": [
+        "can't attend",
+        "mustn't attend",
+        "can't have attended",
+        "shouldn't attend"
+      ],
+      "answer": 2,
+      "explanation": "Can’t have + past participle expresses impossibility about the past.",
+      "source": "adapted-public",
+      "sourceNote": "题目结构参考公开商务英语样题，内容与选项均重新编写。"
+    },
+    {
+      "id": "grammar-211",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B2",
+      "difficulty": 4,
+      "topic": "services",
+      "tags": [
+        "causative",
+        "have-something-done",
+        "causative-have"
+      ],
+      "stem": "Fill in the blank: I need to ___ my car repaired.",
+      "options": [
+        "do",
+        "let",
+        "have",
+        "make"
+      ],
+      "answer": 2,
+      "explanation": "Have something done means arrange for a service.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-212",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B2",
+      "difficulty": 4,
+      "topic": "services",
+      "tags": [
+        "causative",
+        "have-something-done",
+        "causative-have"
+      ],
+      "stem": "Which option is correct? She ___ her hair cut yesterday.",
+      "options": [
+        "had",
+        "made",
+        "let",
+        "did"
+      ],
+      "answer": 0,
+      "explanation": "The past causative is had + object + past participle.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-213",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B2",
+      "difficulty": 4,
+      "topic": "services",
+      "tags": [
+        "causative",
+        "have-something-done",
+        "causative-have"
+      ],
+      "stem": "Choose the correct option: We ___ the office cleaned every Friday.",
+      "options": [
+        "let",
+        "do",
+        "make",
+        "have"
+      ],
+      "answer": 3,
+      "explanation": "Have the office cleaned means arrange the cleaning.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-214",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B2",
+      "difficulty": 4,
+      "topic": "services",
+      "tags": [
+        "causative",
+        "have-something-done",
+        "causative-have"
+      ],
+      "stem": "Complete the sentence: He ___ his suit cleaned before the interview.",
+      "options": [
+        "made",
+        "had",
+        "did",
+        "let"
+      ],
+      "answer": 1,
+      "explanation": "Had his suit cleaned is the past causative.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-215",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B2",
+      "difficulty": 4,
+      "topic": "services",
+      "tags": [
+        "causative",
+        "have-something-done",
+        "causative-have"
+      ],
+      "stem": "Select the best answer: They ___ the contract reviewed by a lawyer.",
+      "options": [
+        "had",
+        "did",
+        "made",
+        "let"
+      ],
+      "answer": 0,
+      "explanation": "Had the contract reviewed means arranged a review.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-216",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B2",
+      "difficulty": 4,
+      "topic": "regrets",
+      "tags": [
+        "wish",
+        "unreal-past",
+        "wish-if-only"
+      ],
+      "stem": "Choose the correct option: I wish I ___ more time.",
+      "options": [
+        "will have",
+        "have",
+        "having",
+        "had"
+      ],
+      "answer": 3,
+      "explanation": "Wish + past simple describes an unreal present situation.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-217",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B2",
+      "difficulty": 4,
+      "topic": "regrets",
+      "tags": [
+        "wish",
+        "unreal-past",
+        "wish-if-only"
+      ],
+      "stem": "Complete the sentence: She wishes she ___ the offer.",
+      "options": [
+        "had accepted",
+        "accepts",
+        "has accepted",
+        "accepted"
+      ],
+      "answer": 0,
+      "explanation": "Wish + past perfect describes a past regret.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-218",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B2",
+      "difficulty": 4,
+      "topic": "regrets",
+      "tags": [
+        "wish",
+        "unreal-past",
+        "wish-if-only"
+      ],
+      "stem": "Select the best answer: If only we ___ the earlier train.",
+      "options": [
+        "caught",
+        "had caught",
+        "have caught",
+        "catch"
+      ],
+      "answer": 1,
+      "explanation": "If only + past perfect expresses a past regret.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-219",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B2",
+      "difficulty": 4,
+      "topic": "regrets",
+      "tags": [
+        "wish",
+        "unreal-past",
+        "wish-if-only"
+      ],
+      "stem": "Fill in the blank: I wish it ___ raining.",
+      "options": [
+        "stop",
+        "stops",
+        "stopped",
+        "would stop"
+      ],
+      "answer": 3,
+      "explanation": "Wish + would describes a desired change.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-220",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B2",
+      "difficulty": 4,
+      "topic": "regrets",
+      "tags": [
+        "wish",
+        "unreal-past",
+        "wish-if-only"
+      ],
+      "stem": "Which option is correct? They wish they ___ in a bigger office.",
+      "options": [
+        "working",
+        "worked",
+        "work",
+        "works"
+      ],
+      "answer": 1,
+      "explanation": "Wish + past simple describes an unreal present situation.",
+      "source": "adapted-public",
+      "sourceNote": "题目结构参考公开商务英语样题，内容与选项均重新编写。"
+    },
+    {
+      "id": "grammar-221",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B2",
+      "difficulty": 4,
+      "topic": "writing",
+      "tags": [
+        "inversion",
+        "negative-adverbials",
+        "inversion-negative"
+      ],
+      "stem": "Fill in the blank: Never ___ I seen such a good report.",
+      "options": [
+        "have",
+        "had",
+        "did",
+        "do"
+      ],
+      "answer": 0,
+      "explanation": "After never at the start, invert the subject and auxiliary: have I.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-222",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B2",
+      "difficulty": 4,
+      "topic": "writing",
+      "tags": [
+        "inversion",
+        "negative-adverbials",
+        "inversion-negative"
+      ],
+      "stem": "Select the best answer: Rarely ___ we receive such positive feedback.",
+      "options": [
+        "does",
+        "do",
+        "did",
+        "are"
+      ],
+      "answer": 1,
+      "explanation": "After rarely, use do + subject + base verb.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-223",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B2",
+      "difficulty": 4,
+      "topic": "writing",
+      "tags": [
+        "inversion",
+        "negative-adverbials",
+        "inversion-negative"
+      ],
+      "stem": "Complete the sentence: Not only ___ she finish the project, but she also helped the team.",
+      "options": [
+        "has",
+        "is",
+        "does",
+        "did"
+      ],
+      "answer": 3,
+      "explanation": "Not only at the start triggers inversion with did.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-224",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B2",
+      "difficulty": 4,
+      "topic": "writing",
+      "tags": [
+        "inversion",
+        "negative-adverbials",
+        "inversion-negative"
+      ],
+      "stem": "Choose the correct option: Hardly ___ we started when the client called.",
+      "options": [
+        "do",
+        "had",
+        "have",
+        "did"
+      ],
+      "answer": 1,
+      "explanation": "Hardly + had + subject + past participle.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-225",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B2",
+      "difficulty": 4,
+      "topic": "writing",
+      "tags": [
+        "inversion",
+        "negative-adverbials",
+        "inversion-negative"
+      ],
+      "stem": "Which option is correct? Seldom ___ he miss a deadline.",
+      "options": [
+        "is",
+        "does",
+        "do",
+        "did"
+      ],
+      "answer": 1,
+      "explanation": "Seldom at the start triggers inversion with does.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-226",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B2",
+      "difficulty": 4,
+      "topic": "writing",
+      "tags": [
+        "concession",
+        "linking"
+      ],
+      "stem": "Complete the sentence: ___ the strong criticism, the plan went ahead.",
+      "options": [
+        "Unless",
+        "Despite",
+        "Although",
+        "Because"
+      ],
+      "answer": 1,
+      "explanation": "Despite is followed by a noun phrase.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-227",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B2",
+      "difficulty": 4,
+      "topic": "writing",
+      "tags": [
+        "concession",
+        "linking"
+      ],
+      "stem": "Select the best answer: ___ it was raining, we went to the client meeting.",
+      "options": [
+        "Despite",
+        "Although",
+        "Unless",
+        "Because"
+      ],
+      "answer": 1,
+      "explanation": "Although is followed by a clause.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-228",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B2",
+      "difficulty": 4,
+      "topic": "writing",
+      "tags": [
+        "concession",
+        "linking"
+      ],
+      "stem": "Which option is correct? She passed the exam ___ not studying much.",
+      "options": [
+        "despite",
+        "because",
+        "unless",
+        "although"
+      ],
+      "answer": 0,
+      "explanation": "Despite is followed by a gerund phrase.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-229",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B2",
+      "difficulty": 4,
+      "topic": "writing",
+      "tags": [
+        "concession",
+        "linking"
+      ],
+      "stem": "Choose the correct option: ___ hard he tried, he could not solve the problem.",
+      "options": [
+        "However",
+        "Unless",
+        "Although",
+        "Despite"
+      ],
+      "answer": 0,
+      "explanation": "However + adjective + subject + verb.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-230",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B2",
+      "difficulty": 4,
+      "topic": "writing",
+      "tags": [
+        "concession",
+        "linking"
+      ],
+      "stem": "Choose the correct option: We continued the project ___ the budget cuts.",
+      "options": [
+        "unless",
+        "despite",
+        "because",
+        "although"
+      ],
+      "answer": 1,
+      "explanation": "Despite is followed by a noun phrase.",
+      "source": "adapted-public",
+      "sourceNote": "题目结构参考公开商务英语样题，内容与选项均重新编写。"
+    },
+    {
+      "id": "grammar-231",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B2",
+      "difficulty": 4,
+      "topic": "writing",
+      "tags": [
+        "purpose",
+        "clauses",
+        "purpose-clauses"
+      ],
+      "stem": "Select the best answer: We sent the report early ___ the client could review it.",
+      "options": [
+        "in order to",
+        "to",
+        "so that",
+        "for"
+      ],
+      "answer": 2,
+      "explanation": "So that is followed by a clause with could.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-232",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B2",
+      "difficulty": 4,
+      "topic": "writing",
+      "tags": [
+        "purpose",
+        "clauses",
+        "purpose-clauses"
+      ],
+      "stem": "Complete the sentence: She called ___ confirm the meeting.",
+      "options": [
+        "for",
+        "so that",
+        "because",
+        "to"
+      ],
+      "answer": 3,
+      "explanation": "To + infinitive expresses purpose.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-233",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B2",
+      "difficulty": 4,
+      "topic": "writing",
+      "tags": [
+        "purpose",
+        "clauses",
+        "purpose-clauses"
+      ],
+      "stem": "Choose the correct option: He saved money ___ buy a new laptop.",
+      "options": [
+        "to",
+        "for",
+        "because",
+        "so that"
+      ],
+      "answer": 0,
+      "explanation": "To + infinitive expresses purpose.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-234",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B2",
+      "difficulty": 4,
+      "topic": "writing",
+      "tags": [
+        "purpose",
+        "clauses",
+        "purpose-clauses"
+      ],
+      "stem": "Which option is correct? We left early ___ avoid the traffic.",
+      "options": [
+        "so that",
+        "because",
+        "for",
+        "to"
+      ],
+      "answer": 3,
+      "explanation": "To + infinitive expresses purpose.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-235",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B2",
+      "difficulty": 4,
+      "topic": "writing",
+      "tags": [
+        "purpose",
+        "clauses",
+        "purpose-clauses"
+      ],
+      "stem": "Complete the sentence: The manager explained the policy ___ everyone understood it.",
+      "options": [
+        "so that",
+        "to",
+        "because",
+        "for"
+      ],
+      "answer": 0,
+      "explanation": "So that introduces a purpose clause.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-236",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B2",
+      "difficulty": 4,
+      "topic": "writing",
+      "tags": [
+        "result",
+        "clauses",
+        "result-clauses"
+      ],
+      "stem": "Fill in the blank: The demand was so high ___ we had to hire more staff.",
+      "options": [
+        "what",
+        "which",
+        "who",
+        "that"
+      ],
+      "answer": 3,
+      "explanation": "So + adjective + that introduces a result clause.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-237",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B2",
+      "difficulty": 4,
+      "topic": "writing",
+      "tags": [
+        "result",
+        "clauses",
+        "result-clauses"
+      ],
+      "stem": "Which option is correct? It was such a long meeting ___ everyone was tired.",
+      "options": [
+        "what",
+        "that",
+        "which",
+        "who"
+      ],
+      "answer": 1,
+      "explanation": "Such + noun phrase + that introduces a result clause.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-238",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B2",
+      "difficulty": 4,
+      "topic": "writing",
+      "tags": [
+        "result",
+        "clauses",
+        "result-clauses"
+      ],
+      "stem": "Choose the correct option: The system failed, ___ caused a delay.",
+      "options": [
+        "which",
+        "that",
+        "what",
+        "who"
+      ],
+      "answer": 0,
+      "explanation": "Which refers back to the whole previous clause.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-239",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B2",
+      "difficulty": 4,
+      "topic": "writing",
+      "tags": [
+        "result",
+        "clauses",
+        "result-clauses"
+      ],
+      "stem": "Complete the sentence: Sales increased, ___ we expanded the team.",
+      "options": [
+        "so",
+        "although",
+        "unless",
+        "because"
+      ],
+      "answer": 0,
+      "explanation": "So introduces a result.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-240",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B2",
+      "difficulty": 4,
+      "topic": "writing",
+      "tags": [
+        "result",
+        "clauses",
+        "result-clauses"
+      ],
+      "stem": "Select the best answer: The report was incomplete; ___, we could not approve it.",
+      "options": [
+        "therefore",
+        "unless",
+        "however",
+        "although"
+      ],
+      "answer": 0,
+      "explanation": "Therefore introduces a result.",
+      "source": "adapted-public",
+      "sourceNote": "题目结构参考公开商务英语样题，内容与选项均重新编写。"
+    },
+    {
+      "id": "grammar-241",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B2",
+      "difficulty": 4,
+      "topic": "writing",
+      "tags": [
+        "participles",
+        "clauses",
+        "participle-clauses"
+      ],
+      "stem": "Select the best answer: ___ the report, she sent it to the manager.",
+      "options": [
+        "Having finished",
+        "Finished",
+        "To finish",
+        "Finish"
+      ],
+      "answer": 0,
+      "explanation": "Having + past participle shows an earlier completed action.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-242",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B2",
+      "difficulty": 4,
+      "topic": "writing",
+      "tags": [
+        "participles",
+        "clauses",
+        "participle-clauses"
+      ],
+      "stem": "Fill in the blank: ___ by the delay, the client complained.",
+      "options": [
+        "To frustrate",
+        "Frustrate",
+        "Frustrated",
+        "Frustrating"
+      ],
+      "answer": 2,
+      "explanation": "The past participle describes how the client felt.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-243",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B2",
+      "difficulty": 4,
+      "topic": "writing",
+      "tags": [
+        "participles",
+        "clauses",
+        "participle-clauses"
+      ],
+      "stem": "Choose the correct option: ___ the budget, we left the meeting.",
+      "options": [
+        "Having discussed",
+        "Discussing",
+        "Discussed",
+        "Discuss"
+      ],
+      "answer": 0,
+      "explanation": "Having discussed shows the action was completed first.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-244",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B2",
+      "difficulty": 4,
+      "topic": "writing",
+      "tags": [
+        "participles",
+        "clauses",
+        "participle-clauses"
+      ],
+      "stem": "Complete the sentence: ___ from the top, the office looks small.",
+      "options": [
+        "Seeing",
+        "Seen",
+        "To see",
+        "See"
+      ],
+      "answer": 1,
+      "explanation": "The past participle is used in a passive sense.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-245",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B2",
+      "difficulty": 4,
+      "topic": "writing",
+      "tags": [
+        "participles",
+        "clauses",
+        "participle-clauses"
+      ],
+      "stem": "Fill in the blank: ___ the news, he called the client.",
+      "options": [
+        "Hear",
+        "Heard",
+        "Hearing",
+        "To hear"
+      ],
+      "answer": 2,
+      "explanation": "The present participle describes an action happening at the same time.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-246",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B2",
+      "difficulty": 4,
+      "topic": "communication",
+      "tags": [
+        "reported-speech",
+        "questions",
+        "reported-questions"
+      ],
+      "stem": "Select the best answer: She asked me ___ I had finished the report.",
+      "options": [
+        "what",
+        "that",
+        "whether",
+        "who"
+      ],
+      "answer": 2,
+      "explanation": "Whether introduces a reported yes/no question.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-247",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B2",
+      "difficulty": 4,
+      "topic": "communication",
+      "tags": [
+        "reported-speech",
+        "questions",
+        "reported-questions"
+      ],
+      "stem": "Complete the sentence: He asked ___ the meeting would start.",
+      "options": [
+        "what",
+        "if",
+        "that",
+        "when"
+      ],
+      "answer": 3,
+      "explanation": "When introduces a reported wh-question about time.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-248",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B2",
+      "difficulty": 4,
+      "topic": "communication",
+      "tags": [
+        "reported-speech",
+        "questions",
+        "reported-questions"
+      ],
+      "stem": "Choose the correct option: They asked me ___ I could help.",
+      "options": [
+        "who",
+        "that",
+        "what",
+        "if"
+      ],
+      "answer": 3,
+      "explanation": "If introduces a reported yes/no question.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-249",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B2",
+      "difficulty": 4,
+      "topic": "communication",
+      "tags": [
+        "reported-speech",
+        "questions",
+        "reported-questions"
+      ],
+      "stem": "Which option is correct? She wanted to know ___ the client had called.",
+      "options": [
+        "who",
+        "that",
+        "whether",
+        "what"
+      ],
+      "answer": 2,
+      "explanation": "Whether introduces a reported yes/no question.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-250",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B2",
+      "difficulty": 4,
+      "topic": "communication",
+      "tags": [
+        "reported-speech",
+        "questions",
+        "reported-questions"
+      ],
+      "stem": "Fill in the blank: He asked me ___ I was working on.",
+      "options": [
+        "if",
+        "what",
+        "that",
+        "whether"
+      ],
+      "answer": 1,
+      "explanation": "What introduces a reported wh-question.",
+      "source": "adapted-public",
+      "sourceNote": "题目结构参考公开商务英语样题，内容与选项均重新编写。"
+    },
+    {
+      "id": "grammar-251",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B2",
+      "difficulty": 4,
+      "topic": "writing",
+      "tags": [
+        "relative-clauses",
+        "defining",
+        "relative-defining-nondefining"
+      ],
+      "stem": "Fill in the blank: My manager, ___ has worked here for ten years, is retiring.",
+      "options": [
+        "who",
+        "where",
+        "which",
+        "whose"
+      ],
+      "answer": 0,
+      "explanation": "A non-defining clause about a person uses who.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-252",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B2",
+      "difficulty": 4,
+      "topic": "writing",
+      "tags": [
+        "relative-clauses",
+        "defining",
+        "relative-defining-nondefining"
+      ],
+      "stem": "Select the best answer: The report ___ I sent yesterday was approved.",
+      "options": [
+        "where",
+        "that",
+        "who",
+        "whose"
+      ],
+      "answer": 1,
+      "explanation": "A defining clause about a thing can use that.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-253",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B2",
+      "difficulty": 4,
+      "topic": "writing",
+      "tags": [
+        "relative-clauses",
+        "defining",
+        "relative-defining-nondefining"
+      ],
+      "stem": "Complete the sentence: Our office, ___ is on the fifth floor, has a great view.",
+      "options": [
+        "which",
+        "where",
+        "whose",
+        "who"
+      ],
+      "answer": 0,
+      "explanation": "A non-defining clause about a thing uses which.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-254",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B2",
+      "difficulty": 4,
+      "topic": "writing",
+      "tags": [
+        "relative-clauses",
+        "defining",
+        "relative-defining-nondefining"
+      ],
+      "stem": "Choose the correct option: The candidate ___ CV impressed us was hired.",
+      "options": [
+        "which",
+        "whose",
+        "who",
+        "where"
+      ],
+      "answer": 1,
+      "explanation": "Whose shows possession.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-255",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B2",
+      "difficulty": 4,
+      "topic": "writing",
+      "tags": [
+        "relative-clauses",
+        "defining",
+        "relative-defining-nondefining"
+      ],
+      "stem": "Select the best answer: The city ___ we opened our new branch is growing fast.",
+      "options": [
+        "where",
+        "whose",
+        "who",
+        "which"
+      ],
+      "answer": 0,
+      "explanation": "Where refers to a place.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-256",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B2",
+      "difficulty": 4,
+      "topic": "plans",
+      "tags": [
+        "tense",
+        "future-perfect"
+      ],
+      "stem": "Choose the correct option: By next year, she ___ her degree.",
+      "options": [
+        "completed",
+        "will complete",
+        "will have completed",
+        "completes"
+      ],
+      "answer": 2,
+      "explanation": "By next year describes an action completed before a future time.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-257",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B2",
+      "difficulty": 4,
+      "topic": "plans",
+      "tags": [
+        "tense",
+        "future-perfect"
+      ],
+      "stem": "Which option is correct? By the end of the month, we ___ the project.",
+      "options": [
+        "will have finished",
+        "will finish",
+        "finish",
+        "finished"
+      ],
+      "answer": 0,
+      "explanation": "By the end of the month requires the future perfect.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-258",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B2",
+      "difficulty": 4,
+      "topic": "plans",
+      "tags": [
+        "tense",
+        "future-perfect"
+      ],
+      "stem": "Fill in the blank: They ___ the new system by June.",
+      "options": [
+        "install",
+        "will install",
+        "will have installed",
+        "installed"
+      ],
+      "answer": 2,
+      "explanation": "By June marks completion before a future deadline.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-259",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B2",
+      "difficulty": 4,
+      "topic": "plans",
+      "tags": [
+        "tense",
+        "future-perfect"
+      ],
+      "stem": "Select the best answer: By 2030, the company ___ into three new markets.",
+      "options": [
+        "will have expanded",
+        "expands",
+        "will expand",
+        "expanded"
+      ],
+      "answer": 0,
+      "explanation": "By 2030 requires the future perfect.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-260",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "B2",
+      "difficulty": 4,
+      "topic": "plans",
+      "tags": [
+        "tense",
+        "future-perfect"
+      ],
+      "stem": "Complete the sentence: He ___ the report by the time you arrive.",
+      "options": [
+        "will write",
+        "will have written",
+        "wrote",
+        "writes"
+      ],
+      "answer": 1,
+      "explanation": "By the time you arrive marks a future deadline.",
+      "source": "adapted-public",
+      "sourceNote": "题目结构参考公开商务英语样题，内容与选项均重新编写。"
+    },
+    {
+      "id": "grammar-261",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "C1",
+      "difficulty": 5,
+      "topic": "formal-writing",
+      "tags": [
+        "subjunctive",
+        "formal"
+      ],
+      "stem": "Choose the correct option: The manager insisted that the report ___ submitted today.",
+      "options": [
+        "was",
+        "will be",
+        "be",
+        "is"
+      ],
+      "answer": 2,
+      "explanation": "Insist that + subject + base verb uses the subjunctive.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-262",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "C1",
+      "difficulty": 5,
+      "topic": "formal-writing",
+      "tags": [
+        "subjunctive",
+        "formal"
+      ],
+      "stem": "Complete the sentence: It is essential that everyone ___ the safety rules.",
+      "options": [
+        "follows",
+        "followed",
+        "follow",
+        "following"
+      ],
+      "answer": 2,
+      "explanation": "Essential that + subject + base verb uses the subjunctive.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-263",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "C1",
+      "difficulty": 5,
+      "topic": "formal-writing",
+      "tags": [
+        "subjunctive",
+        "formal"
+      ],
+      "stem": "Fill in the blank: The board recommended that she ___ the position.",
+      "options": [
+        "accepts",
+        "accepting",
+        "accept",
+        "accepted"
+      ],
+      "answer": 2,
+      "explanation": "Recommend that + subject + base verb uses the subjunctive.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-264",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "C1",
+      "difficulty": 5,
+      "topic": "formal-writing",
+      "tags": [
+        "subjunctive",
+        "formal"
+      ],
+      "stem": "Which option is correct? If I ___ you, I would apologize.",
+      "options": [
+        "were",
+        "was",
+        "be",
+        "am"
+      ],
+      "answer": 0,
+      "explanation": "If I were you is a fixed subjunctive form.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-265",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "C1",
+      "difficulty": 5,
+      "topic": "formal-writing",
+      "tags": [
+        "subjunctive",
+        "formal"
+      ],
+      "stem": "Complete the sentence: It is important that he ___ informed immediately.",
+      "options": [
+        "is",
+        "will be",
+        "was",
+        "be"
+      ],
+      "answer": 3,
+      "explanation": "Important that + subject + be uses the subjunctive.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-266",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "C1",
+      "difficulty": 5,
+      "topic": "conversation",
+      "tags": [
+        "ellipsis",
+        "substitution"
+      ],
+      "stem": "Complete the sentence: She can swim, and so ___ I.",
+      "options": [
+        "do",
+        "can",
+        "did",
+        "am"
+      ],
+      "answer": 1,
+      "explanation": "So + auxiliary + subject echoes can swim.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-267",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "C1",
+      "difficulty": 5,
+      "topic": "conversation",
+      "tags": [
+        "ellipsis",
+        "substitution"
+      ],
+      "stem": "Choose the correct option: He wasn't at the meeting, and neither ___ she.",
+      "options": [
+        "is",
+        "does",
+        "did",
+        "was"
+      ],
+      "answer": 3,
+      "explanation": "Neither + auxiliary + subject echoes the past be.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-268",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "C1",
+      "difficulty": 5,
+      "topic": "conversation",
+      "tags": [
+        "ellipsis",
+        "substitution"
+      ],
+      "stem": "Which option is correct? I asked him to help, but he didn’t ___.",
+      "options": [
+        "wanted",
+        "wanting",
+        "want to",
+        "want"
+      ],
+      "answer": 2,
+      "explanation": "Ellipsis after to leaves the infinitive marker.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-269",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "C1",
+      "difficulty": 5,
+      "topic": "conversation",
+      "tags": [
+        "ellipsis",
+        "substitution"
+      ],
+      "stem": "Fill in the blank: She said she would call, but she didn't ___.",
+      "options": [
+        "do",
+        "did",
+        "done",
+        "does"
+      ],
+      "answer": 0,
+      "explanation": "The substitute verb do replaces the earlier verb phrase.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-270",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "C1",
+      "difficulty": 5,
+      "topic": "conversation",
+      "tags": [
+        "ellipsis",
+        "substitution"
+      ],
+      "stem": "Select the best answer: They finished the work, and we ___ too.",
+      "options": [
+        "did",
+        "do",
+        "done",
+        "does"
+      ],
+      "answer": 0,
+      "explanation": "Did substitutes for finished the work in the past.",
+      "source": "adapted-public",
+      "sourceNote": "题目结构参考公开商务英语样题，内容与选项均重新编写。"
+    },
+    {
+      "id": "grammar-271",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "C1",
+      "difficulty": 5,
+      "topic": "emphasis",
+      "tags": [
+        "cleft",
+        "emphasis",
+        "cleft-sentences"
+      ],
+      "stem": "Complete the sentence: It was the manager ___ approved the budget.",
+      "options": [
+        "where",
+        "who",
+        "which",
+        "whose"
+      ],
+      "answer": 1,
+      "explanation": "A cleft sentence about a person uses who.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-272",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "C1",
+      "difficulty": 5,
+      "topic": "emphasis",
+      "tags": [
+        "cleft",
+        "emphasis",
+        "cleft-sentences"
+      ],
+      "stem": "Choose the correct option: It is the customer service ___ needs improvement.",
+      "options": [
+        "that",
+        "who",
+        "which",
+        "whose"
+      ],
+      "answer": 0,
+      "explanation": "A cleft sentence about a thing can use that.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-273",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "C1",
+      "difficulty": 5,
+      "topic": "emphasis",
+      "tags": [
+        "cleft",
+        "emphasis",
+        "cleft-sentences"
+      ],
+      "stem": "Fill in the blank: What I need is ___ time to finish the report.",
+      "options": [
+        "more",
+        "most",
+        "much",
+        "many"
+      ],
+      "answer": 0,
+      "explanation": "A wh-cleft uses the comparative more here.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-274",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "C1",
+      "difficulty": 5,
+      "topic": "emphasis",
+      "tags": [
+        "cleft",
+        "emphasis",
+        "cleft-sentences"
+      ],
+      "stem": "Select the best answer: It was in 2020 ___ the company launched the product.",
+      "options": [
+        "that",
+        "where",
+        "which",
+        "when"
+      ],
+      "answer": 0,
+      "explanation": "The cleft structure uses that after the time phrase.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-275",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "C1",
+      "difficulty": 5,
+      "topic": "emphasis",
+      "tags": [
+        "cleft",
+        "emphasis",
+        "cleft-sentences"
+      ],
+      "stem": "Choose the correct option: The person ___ I spoke to was the supplier.",
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "where"
+      ],
+      "answer": 0,
+      "explanation": "Who refers to a person.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-276",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "C1",
+      "difficulty": 5,
+      "topic": "formal-writing",
+      "tags": [
+        "conditionals",
+        "formal",
+        "advanced-conditionals"
+      ],
+      "stem": "Fill in the blank: ___ you finish the report, we can submit it today.",
+      "options": [
+        "Unless",
+        "Despite",
+        "Provided that",
+        "Although"
+      ],
+      "answer": 2,
+      "explanation": "Provided that means on condition that.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-277",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "C1",
+      "difficulty": 5,
+      "topic": "formal-writing",
+      "tags": [
+        "conditionals",
+        "formal",
+        "advanced-conditionals"
+      ],
+      "stem": "Which option is correct? I will attend ___ I am not ill.",
+      "options": [
+        "unless",
+        "although",
+        "provided that",
+        "despite"
+      ],
+      "answer": 0,
+      "explanation": "Unless means if not.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-278",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "C1",
+      "difficulty": 5,
+      "topic": "formal-writing",
+      "tags": [
+        "conditionals",
+        "formal",
+        "advanced-conditionals"
+      ],
+      "stem": "Choose the correct option: ___ it rains, the event will go ahead.",
+      "options": [
+        "Provided that",
+        "Unless",
+        "Although",
+        "Despite"
+      ],
+      "answer": 1,
+      "explanation": "Unless introduces an exception.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-279",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "C1",
+      "difficulty": 5,
+      "topic": "formal-writing",
+      "tags": [
+        "conditionals",
+        "formal",
+        "advanced-conditionals"
+      ],
+      "stem": "Complete the sentence: We will proceed ___ we receive written approval.",
+      "options": [
+        "although",
+        "despite",
+        "unless",
+        "provided that"
+      ],
+      "answer": 3,
+      "explanation": "Provided that introduces a condition.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-280",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "C1",
+      "difficulty": 5,
+      "topic": "formal-writing",
+      "tags": [
+        "conditionals",
+        "formal",
+        "advanced-conditionals"
+      ],
+      "stem": "Which option is correct? ___ you need help, call me.",
+      "options": [
+        "Despite",
+        "Unless",
+        "Although",
+        "If"
+      ],
+      "answer": 3,
+      "explanation": "If introduces a condition.",
+      "source": "adapted-public",
+      "sourceNote": "题目结构参考公开商务英语样题，内容与选项均重新编写。"
+    },
+    {
+      "id": "grammar-281",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "C1",
+      "difficulty": 5,
+      "topic": "conversation",
+      "tags": [
+        "inversion",
+        "so-neither",
+        "inversion-so-neither"
+      ],
+      "stem": "Select the best answer: She likes coffee, and so ___ I.",
+      "options": [
+        "am",
+        "do",
+        "can",
+        "did"
+      ],
+      "answer": 1,
+      "explanation": "So + do + subject echoes a present simple verb.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-282",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "C1",
+      "difficulty": 5,
+      "topic": "conversation",
+      "tags": [
+        "inversion",
+        "so-neither",
+        "inversion-so-neither"
+      ],
+      "stem": "Fill in the blank: He didn't attend, and neither ___ she.",
+      "options": [
+        "did",
+        "is",
+        "do",
+        "does"
+      ],
+      "answer": 0,
+      "explanation": "Neither + did + subject echoes the past simple.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-283",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "C1",
+      "difficulty": 5,
+      "topic": "conversation",
+      "tags": [
+        "inversion",
+        "so-neither",
+        "inversion-so-neither"
+      ],
+      "stem": "Choose the correct option: They have finished, and so ___ we.",
+      "options": [
+        "has",
+        "do",
+        "did",
+        "have"
+      ],
+      "answer": 3,
+      "explanation": "So + have + subject echoes the present perfect.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-284",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "C1",
+      "difficulty": 5,
+      "topic": "conversation",
+      "tags": [
+        "inversion",
+        "so-neither",
+        "inversion-so-neither"
+      ],
+      "stem": "Complete the sentence: I can't swim, and neither ___ he.",
+      "options": [
+        "does",
+        "can",
+        "did",
+        "could"
+      ],
+      "answer": 1,
+      "explanation": "Neither + can + subject echoes the modal.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-285",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "C1",
+      "difficulty": 5,
+      "topic": "conversation",
+      "tags": [
+        "inversion",
+        "so-neither",
+        "inversion-so-neither"
+      ],
+      "stem": "Fill in the blank: We were late, and so ___ they.",
+      "options": [
+        "did",
+        "was",
+        "are",
+        "were"
+      ],
+      "answer": 3,
+      "explanation": "So + were + subject echoes the past be.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-286",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "C1",
+      "difficulty": 5,
+      "topic": "writing",
+      "tags": [
+        "gerund",
+        "perfect",
+        "gerund-perfect"
+      ],
+      "stem": "Which option is correct? ___ the proposal, the board asked for changes.",
+      "options": [
+        "Review",
+        "Having reviewed",
+        "To review",
+        "Reviewed"
+      ],
+      "answer": 1,
+      "explanation": "Having + past participle shows an earlier completed action.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-287",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "C1",
+      "difficulty": 5,
+      "topic": "writing",
+      "tags": [
+        "gerund",
+        "perfect",
+        "gerund-perfect"
+      ],
+      "stem": "Fill in the blank: ___ the client before, he knew what to expect.",
+      "options": [
+        "To meet",
+        "Meeting",
+        "Having met",
+        "Met"
+      ],
+      "answer": 2,
+      "explanation": "Having met shows an earlier experience.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-288",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "C1",
+      "difficulty": 5,
+      "topic": "writing",
+      "tags": [
+        "gerund",
+        "perfect",
+        "gerund-perfect"
+      ],
+      "stem": "Select the best answer: ___ for hours, they finally reached an agreement.",
+      "options": [
+        "Negotiating",
+        "Having negotiated",
+        "Negotiated",
+        "To negotiate"
+      ],
+      "answer": 1,
+      "explanation": "Having negotiated shows the action was completed first.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-289",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "C1",
+      "difficulty": 5,
+      "topic": "writing",
+      "tags": [
+        "gerund",
+        "perfect",
+        "gerund-perfect"
+      ],
+      "stem": "Complete the sentence: ___ the risks, the board approved the plan.",
+      "options": [
+        "To consider",
+        "Considered",
+        "Having considered",
+        "Considering"
+      ],
+      "answer": 2,
+      "explanation": "Having considered shows a completed prior action.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-290",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "C1",
+      "difficulty": 5,
+      "topic": "writing",
+      "tags": [
+        "gerund",
+        "perfect",
+        "gerund-perfect"
+      ],
+      "stem": "Choose the correct option: ___ the email, she realized her mistake.",
+      "options": [
+        "Sent",
+        "Sending",
+        "To send",
+        "Having sent"
+      ],
+      "answer": 3,
+      "explanation": "Having sent shows the action was completed before the realization.",
+      "source": "adapted-public",
+      "sourceNote": "题目结构参考公开商务英语样题，内容与选项均重新编写。"
+    },
+    {
+      "id": "grammar-291",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "C1",
+      "difficulty": 5,
+      "topic": "formal-writing",
+      "tags": [
+        "passive",
+        "modal",
+        "modal-passive"
+      ],
+      "stem": "Complete the sentence: The report ___ by Friday.",
+      "options": [
+        "must have submitted",
+        "must be submitted",
+        "must submitting",
+        "must submit"
+      ],
+      "answer": 1,
+      "explanation": "Modal passive = modal + be + past participle.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-292",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "C1",
+      "difficulty": 5,
+      "topic": "formal-writing",
+      "tags": [
+        "passive",
+        "modal",
+        "modal-passive"
+      ],
+      "stem": "Choose the correct option: The issue ___ immediately.",
+      "options": [
+        "should be addressed",
+        "should have addressed",
+        "should address",
+        "should addressing"
+      ],
+      "answer": 0,
+      "explanation": "Should be + past participle is the passive form.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-293",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "C1",
+      "difficulty": 5,
+      "topic": "formal-writing",
+      "tags": [
+        "passive",
+        "modal",
+        "modal-passive"
+      ],
+      "stem": "Which option is correct? The contract ___ by both parties.",
+      "options": [
+        "must have signed",
+        "must be signed",
+        "must sign",
+        "must signing"
+      ],
+      "answer": 1,
+      "explanation": "The contract receives the action: must be signed.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-294",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "C1",
+      "difficulty": 5,
+      "topic": "formal-writing",
+      "tags": [
+        "passive",
+        "modal",
+        "modal-passive"
+      ],
+      "stem": "Fill in the blank: The data ___ securely.",
+      "options": [
+        "should have stored",
+        "should storing",
+        "should store",
+        "should be stored"
+      ],
+      "answer": 3,
+      "explanation": "The data receives the action: should be stored.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-295",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "C1",
+      "difficulty": 5,
+      "topic": "formal-writing",
+      "tags": [
+        "passive",
+        "modal",
+        "modal-passive"
+      ],
+      "stem": "Select the best answer: The meeting ___ until next week.",
+      "options": [
+        "can postpone",
+        "can have postponed",
+        "can be postponed",
+        "can postponing"
+      ],
+      "answer": 2,
+      "explanation": "The meeting receives the action: can be postponed.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-296",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "C1",
+      "difficulty": 5,
+      "topic": "analysis",
+      "tags": [
+        "comparatives",
+        "advanced",
+        "advanced-comparatives"
+      ],
+      "stem": "Fill in the blank: The more we practice, ___ we become.",
+      "options": [
+        "the better",
+        "best",
+        "better",
+        "the best"
+      ],
+      "answer": 0,
+      "explanation": "The more..., the better... is a double comparative.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-297",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "C1",
+      "difficulty": 5,
+      "topic": "analysis",
+      "tags": [
+        "comparatives",
+        "advanced",
+        "advanced-comparatives"
+      ],
+      "stem": "Select the best answer: This year's results are ___ better than last year's.",
+      "options": [
+        "very",
+        "more",
+        "slightly",
+        "most"
+      ],
+      "answer": 2,
+      "explanation": "Slightly modifies a comparative.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-298",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "C1",
+      "difficulty": 5,
+      "topic": "analysis",
+      "tags": [
+        "comparatives",
+        "advanced",
+        "advanced-comparatives"
+      ],
+      "stem": "Complete the sentence: The new process is ___ efficient than the old one.",
+      "options": [
+        "more",
+        "most",
+        "considerably",
+        "very"
+      ],
+      "answer": 2,
+      "explanation": "Considerably modifies a comparative.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-299",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "C1",
+      "difficulty": 5,
+      "topic": "analysis",
+      "tags": [
+        "comparatives",
+        "advanced",
+        "advanced-comparatives"
+      ],
+      "stem": "Which option is correct? She is ___ most experienced manager in the team.",
+      "options": [
+        "the",
+        "a",
+        "no article",
+        "an"
+      ],
+      "answer": 0,
+      "explanation": "Superlatives take the.",
+      "source": "original"
+    },
+    {
+      "id": "grammar-300",
+      "section": "grammar",
+      "type": "grammar-choice",
+      "level": "C1",
+      "difficulty": 5,
+      "topic": "analysis",
+      "tags": [
+        "comparatives",
+        "advanced",
+        "advanced-comparatives"
+      ],
+      "stem": "Which option is correct? The harder you work, ___ you will achieve.",
+      "options": [
+        "more",
+        "the more",
+        "most",
+        "the most"
+      ],
+      "answer": 1,
+      "explanation": "The harder..., the more... is a double comparative.",
+      "source": "adapted-public",
+      "sourceNote": "题目结构参考公开商务英语样题，内容与选项均重新编写。"
+    }
+  ]
+}
